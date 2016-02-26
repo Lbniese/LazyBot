@@ -1,0 +1,11 @@
+[8:00:21 AM] Could not start the updating program, cannot auto update: System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at LazyEvo.Forms.Helpers.CheckUpdate.CheckForUpdate() in c:\Users\Public\Documents\Release - Copy\Lazy Evolution\Forms\Helpers\CheckUpdate.cs:line 49
+[8:00:24 AM] [ECompiler] Loaded: LFishingEngine
+[8:00:25 AM] Could not load a valid flying profile
+[8:00:24 AM] Visit www.ownedcore.com for support.
+[8:00:25 AM] LazyBot Revolution is free and open source software!
+[8:00:25 AM] coded by Arutha!
+[8:00:25 AM] Keys should be placed on bar 1-6 and position 1-9!
+[8:00:25 AM] Attached

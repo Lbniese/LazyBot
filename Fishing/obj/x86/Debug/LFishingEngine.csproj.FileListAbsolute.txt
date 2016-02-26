@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Debug\LFishingEngine.dll
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Debug\LFishingEngine.pdb
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Debug\LazyLib.dll
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Debug\LazyLib.pdb
+C:\Users\Public\Documents\Release\Fishing\obj\x86\Debug\LFishingEngine.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Release\Fishing\obj\x86\Debug\LFishingEngine.Settings.resources
+C:\Users\Public\Documents\Release\Fishing\obj\x86\Debug\LFishingEngine.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Release\Fishing\obj\x86\Debug\LFishingEngine.dll
+C:\Users\Public\Documents\Release\Fishing\obj\x86\Debug\LFishingEngine.pdb

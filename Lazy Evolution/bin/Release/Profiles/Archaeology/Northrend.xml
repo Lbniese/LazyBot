@@ -1,0 +1,426 @@
+<?xml version="1.0"?>
+<LazyProfile>
+  <PathName>Northrend.xml</PathName>
+  <Vendors>
+  </Vendors>
+  <SubProfile>
+    <Name>Sands of Nasam Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2454.51 5420.366 25.32059</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Riplash Ruins Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1369.021 5920.831 4.53678</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>En’Kilah Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4044.014 3553.022 105.9902</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Talramas Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4335.353 4445.975 72.28926</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Jotunheim Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>7088.906 4076.955 535.3271</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Njorndar Village Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>7731.744 3675.261 653.0356</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ymirheim Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>7213.305 1970.443 570.9301</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Pit of Fiends Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>7115.007 595.9893 498.0419</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Scourgeholme Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>6766.626 566.0714 426.7882</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Violet Stand Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>5683.74 999.4753 174.4836</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ruins of Shandaral Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>5372.586 -814.7572 161.8752</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Pit of Narjun Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>3630.448 2158.53 78.80432</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Moonrest Gardens Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>3241.16 2484.194 38.31104</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Voldrune Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2914.935 -2665.885 88.55244</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Gjalerbron Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2727.819 -3451.493 224.1555</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Skorn Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1956.772 -4160.212 214.1566</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Halgrind Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>967.8068 -4437.792 152.1131</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Wyrmskull Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>994.1431 -4972.97 5.845667</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Shield Hill Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-78.96708 -4994.988 311.4542</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Nifflevar Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>939.2187 -5525.642 187.4289</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Baleheim Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1543.782 -5312.219 199.3029</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Drakil’Jin Ruins Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4696.573 -4752.031 52.89956</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Altar of Quetz’lun Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>5607.021 -4194.972 367.0043</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Zol’Heb Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>6368.831 -4556.429 453.2668</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Zim’Rhuk Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>6248.38 -3591.393 383.7299</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Kolramas Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4993.941 -3498.965 287.5319</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Alter of Sseratus Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>6116.725 -2610.186 293.1271</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Sifreldar Village Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>6735.51 -1004.719 769.8488</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Brunnhildar Village Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>6975.577 -1601.383 820.2603</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Valkyrion Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>7307.539 83.18517 778.2981</Spot>
+  </SubProfile>
+</LazyProfile>

@@ -1,0 +1,984 @@
+<?xml version="1.0"?>
+<LazyProfile>
+  <PathName>Kalimdor.xml</PathName>
+  <Vendors>
+  </Vendors>
+  <SubProfile>
+    <Name>Owl Wing Thicket Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>5</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>5664.104 -4967.458 823.0709</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Frostwhisper Gorge Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>5316.415 -4670.594 691.7073</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Lake Kel'Theril Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>6515.884 -4121.59 660.3055</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ironwood Digsite </Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>5964.667 -1175.413 381.7138</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Jaedenar Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4876.374 -564.0376 313.0855</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Constellas Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4526.603 -498.5487 303.0454</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Morlos'Aran Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>3804.788 -1676.957 271.5288</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Zoram Strand Digsite </Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>3922.877 861.5485 1.052835</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Nazj'vel Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4579.013 930.5016 45.96289</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ruins of Ordil'Aran Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>3474.111 36.2388 3.626959</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ruins of Stardust digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2099.724 -234.446 97.33332</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Forest Song Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2926.91 -3177.11 173.0129</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ruins of Eldarath</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>3545.474 -5201.344 82.52979</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ruins of Arkkoran digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4206.907 -7316.263 11.87066</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Scorched Plain Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4555.749 -3391.929 1010.493</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Sanctuary of Malorne Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4452.329 -2071.827 1206.766</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Grove of Aessina Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>5153.706 -1766.261 1337.593</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Shrine of Goldrinn Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>5294.044 -2192.492 1258.962</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ruins of Lar'donir Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>5643.688 -3010.627 1560.711</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Sargeron Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-213.4881 813.0001 90.68999</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Slitherblade Shore Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-418.9307 2879.517 39.74901</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ethel Rethor Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-342.1216 2375.139 40.62818</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Kodo Graveyard</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-1350.206 1867.705 46.00742</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Mannoroc Coven Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-1912.217 1858.122 63.88215</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Valley of Bones</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-2285.829 1329.868 63.58916</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ravenwind Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-2953.382 2743.643 51.49717</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Oneiros Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-3115.147 1716.878 51.36042</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Broken Commons Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-3877.586 1125.762 154.7885</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Dire Maul Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-4534.737 1329.623 116.1158</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Darkmist Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-5054.17 940.0648 154.3947</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>North Isildien Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-4955.451 1192.936 58.15707</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>South Isildien Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-5511.035 1325.761 21.55968</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Solarsal Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-4932.569 3588.231 10.80799</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Southwind Village Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-7199.2 371.6715 25.43277</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Screaming Reaches Fossil Field</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-6723.77 -793.2736 -271.1159</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Terror Run Fossil Field</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-7862.5 -641.8158 -260.5366</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Marshlands Fossil Bank </Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-7606.451 -1948.707 -270.3847</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Dunemaul Fossil Ridge</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-8947.88 -2889.536 45.27409</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Southmoon Ruins Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-9249.391 -3016.533 16.11079</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Eastmoon Ruins Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-8872.235 -3458.544 10.76252</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Abyssal Sands Fossil Ridge</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-7958.403 -3270.63 60.47123</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Broken Pillar</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-7976.934 -3860.56 18.0757</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Zul'Farrak Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-6850.292 -2881.955 9.604273</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Wyrmbog Fossil Field</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-4593.874 -3536.603 36.90284</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Quagmire Fossil Field</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-3945.406 -3509.492 38.00027</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Bael Modan Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-4094.947 -2147.968 50.55216</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Fields of Blood Fossil Bank</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-1961.351 -2009.234 95.52148</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Nightmare Scar Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-1699.518 -2207.55 97.81119</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Stonetalon Peak Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2457.216 1476.019 427.2088</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ruins of Eldre'Thar</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>392.5565 1042.774 227.647</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Unearthed Grounds</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>358.0731 -573.9326 287.4831</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Upper Lakkari Tar Pits</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-6371.353 -1259.041 -215.3554</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Lower Lakkari Tar Pits</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-6678.534 -1409.592 -220.4259</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Steps of Fate Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-9858.211 -2033.349 15.30109</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Tombs of the Precursors Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-10117.73 -2171.011 39.51271</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Neferset Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-11298.65 -682.3199 121.0163</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ruins of Ammon Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-10761.89 368.7981 24.41182</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Orsis Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-9861.476 -23.45357 55.64368</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Temple of Uldum Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-9226.958 328.1091 261.6585</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ruins of Khintaset Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-8730.21 306.3099 329.2257</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ruins of Ahmtul Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-8721.559 -386.5807 186.7388</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Sahket Wastes Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-8882.893 -675.3536 168.4372</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Akhenet Fields</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-10234.7 -884.8256 60.57428</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Cursed Landing Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-10344.85 -2645.95 4.997916</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Keset Pass Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-9919.472 -2382.738 14.27782</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>River Delta Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-10779.62 -1202.129 2.991595</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Obelisk of the Stars Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-9308.934 -1541.981 65.45319</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Schnottz's Landing Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-10644.05 1212.356 22.58608</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Unnamed</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+  </SubProfile>
+  <SubProfile>
+    <Name>Unnamed</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+  </SubProfile>
+</LazyProfile>

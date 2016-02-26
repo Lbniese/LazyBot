@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<?xml version="1.0"?>
+<HarvestList>
+<!-- прочее -->
+  <Harvest><Name>Untilled Soil</Name><Action>1</Action></Harvest>
+  <Harvest><Name>Encroaching Weed</Name><Action>2</Action></Harvest>
+  <Harvest><Name>Stubborn Weed</Name><Action>2</Action></Harvest>
+  <Harvest><Name>Tilled Soil</Name><Action>3</Action></Harvest>
+  <Harvest><Name>Occupied Soil</Name><Action>11</Action></Harvest>
+<!-- Green Cabbage -->
+  <Harvest><Name>Infested Green Cabbage</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Green Cabbage</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Parched EZ-Gro Green Cabbage</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Green Cabbage</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Green Cabbage</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Green Cabbage</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Green Cabbage</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Green Cabbage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bursting Green Cabbage</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe Green Cabbage</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe EZ-Gro Green Cabbage</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Plump Green Cabbage</Name><Action>10</Action></Harvest>
+<!-- Juicycrunch Carrot -->
+  <Harvest><Name>Infested Juicycrunch Carrot</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Juicycrunch Carrot</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Juicycrunch Carrot</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Juicycrunch Carrot</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Juicycrunch Carrot</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Juicycrunch Carrot</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Juicycrunch Carrot</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bursting Juicycrunch Carrot</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe Juicycrunch Carrot</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Plump Juicycrunch Carrot</Name><Action>10</Action></Harvest>
+<!-- Scallions -->
+  <Harvest><Name>Infested Scallions</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Scallions</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Scallions</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Scallions</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Scallions</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Scallions</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Scallions</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bursting Scallions</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe Scallions</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Plump Scallions</Name><Action>10</Action></Harvest>
+<!-- Mogu Pumpkin -->
+  <Harvest><Name>Infested Mogu Pumpkin</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Mogu Pumpkin</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Mogu Pumpkin</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Mogu Pumpkin</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Mogu Pumpkin</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Mogu Pumpkin</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Mogu Pumpkin</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bursting Mogu Pumpkin</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe Mogu Pumpkin</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Plump Mogu Pumpkin</Name><Action>10</Action></Harvest>
+<!-- Red Blossom Leek -->
+  <Harvest><Name>Infested Red Blossom Leek</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Red Blossom Leek</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Red Blossom Leek</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Red Blossom Leek</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Red Blossom Leek</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Red Blossom Leek</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Red Blossom Leek</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bursting Red Blossom Leek</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe Red Blossom Leek</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Plump Red Blossom Leek</Name><Action>10</Action></Harvest>
+<!-- Pink Turnip -->
+  <Harvest><Name>Infested Pink Turnip</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Pink Turnip</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Pink Turnip</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Pink Turnip</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Pink Turnip</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Pink Turnip</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Pink Turnip</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bursting Pink Turnip</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe Pink Turnip</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Plump Pink Turnip</Name><Action>10</Action></Harvest>
+<!-- White Turnip -->
+  <Harvest><Name>Infested White Turnip</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched White Turnip</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty White Turnip</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled White Turnip</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling White Turnip</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring White Turnip</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild White Turnip</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bursting White Turnip</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe White Turnip</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Plump White Turnip</Name><Action>10</Action></Harvest>
+<!-- Jade Squash -->
+  <Harvest><Name>Infested Jade Squash</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Jade Squash</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Jade Squash</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Jade Squash</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Jade Squash</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Jade Squash</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Jade Squash</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bursting Jade Squash</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe Jade Squash</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Plump Jade Squash</Name><Action>10</Action></Harvest>
+<!-- Witchberries -->
+  <Harvest><Name>Infested Witchberries</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Witchberries</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Witchberries</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Witchberries</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Witchberries</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Witchberries</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Witchberries</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bursting Witchberries</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe Witchberries</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Plump Witchberries</Name><Action>10</Action></Harvest>
+<!-- Striped Melon -->
+  <Harvest><Name>Infested Striped Melon</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Striped Melon</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Striped Melon</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Striped Melon</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Striped Melon</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Striped Melon</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Striped Melon</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bursting Striped Melon</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Ripe Striped Melon</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Plump Striped Melon</Name><Action>10</Action></Harvest>
+<!-- Enigma Seed -->
+  <Harvest><Name>Infested Enigma Seed</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Enigma Seed</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty семечко</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Enigma Seed</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Enigma Seed</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Enigma Seed</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Enigma Seed</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Silkweed</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Green Tea Leaf</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Rain Poppy</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Fool's Cap</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Snow Lily</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Golden Lotus</Name><Action>10</Action></Harvest>
+<!-- Magebulb -->
+  <Harvest><Name>Infested Magebulb</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Magebulb</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Magebulb</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Magebulb</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Magebulb</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Magebulb</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Magebulb</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Magebulb</Name><Action>10</Action></Harvest>
+<!-- Raptorleaf -->
+  <Harvest><Name>Infested Raptorleaf</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Raptorleaf</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Raptorleaf</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Raptorleaf</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Raptorleaf</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Raptorleaf</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Raptorleaf</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Raptorleaf</Name><Action>10</Action></Harvest>
+<!-- Snakeroot -->
+  <Harvest><Name>Infested Snakeroot</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Snakeroot</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Snakeroot</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Snakeroot</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Snakeroot</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Snakeroot</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Snakeroot</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Snakeroot</Name><Action>10</Action></Harvest>
+<!-- Windshear Cactus -->
+  <Harvest><Name>Infested Windshear Cactus</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Windshear Cactus</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Windshear Cactus</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Windshear Cactus</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Windshear Cactus</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Windshear Cactus</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Windshear Cactus</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Windshear Cactus</Name><Action>10</Action></Harvest>
+<!-- Songbell -->
+  <Harvest><Name>Infested Songbell</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Parched Songbell</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Runty Songbell</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Tangled Songbell</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Wiggling Songbell</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Alluring Songbell</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Wild Songbell</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Songbell</Name><Action>10</Action></Harvest>
+<!-- Autumn Blossom Tree -->
+  <Harvest><Name>Autumn Blossom Tree</Name><Action>10</Action></Harvest>
+<!-- Winter Blossom Tree -->
+  <Harvest><Name>Winter Blossom Tree</Name><Action>10</Action></Harvest>
+<!-- Spring Blossom Tree -->
+  <Harvest><Name>Spring Blossom Tree</Name><Action>10</Action></Harvest>
+</HarvestList>

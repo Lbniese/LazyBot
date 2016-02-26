@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<LazyProfile>
+  <PathName>pandarianew.xml</PathName>
+  <Vendors>
+  </Vendors>
+  <SubProfile>
+    <Name>South Orchard Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>246.4865 -1666.574 90.29037</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Old Village Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1869.342 413.1786 494.5599</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Gate to Golden Valley Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1813.589 1361.876 480.7229</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Destroyed Village Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>3294.927 341.9795 457.8321</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Sra' thik Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2487.146 4615.944 156.963</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Venomous Ledge Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-106.5421 4698.838 68.51883</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>The Briny Much Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-1103.332 4046.379 6.36966</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Mistfall Village Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>764.5254 1522.447 384.9625</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>North Ruins of Dojan Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-1115.91 330.1158 36.74552</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Thunderwood Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>165.6815 -1351.194 67.86864</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Orchard Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1424.039 -2477.063 148.6076</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>South Ruins of Dojan Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-1299.577 387.7532 43.98588</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Torjari Pit Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-913.1033 1930.997 159.6853</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Fire Camp Osul Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2936.564 3341.437 415.967</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Ikz'ka Ridge Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>3021.802 6064.5 82.2151</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>The Spring Road Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>935.4409 -157.6971 431.5529</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Valley of Kings Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>3634.887 1298.629 748.5469</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>East Snow Covered Hills Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>3398.445 2373.967 822.9006</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Writhingwood Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-173.73 2572.117 160.0428</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Paoquan Hollow Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>216.6784 2066.763 161.2234</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>North Fruited Fields Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>85.37092 1298.476 217.8542</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Sik'vess Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1385.083 4346.314 214.1468</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Hatred's Vice Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1933.403 2525.622 426.1321</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>The Underbough Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2429.658 3635.793 247.9884</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Grumblepaw Ranch Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2686.912 472.1689 517.0954</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>The Arboretum Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1583.339 -2228.226 156.1262</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Zhu Province Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-442.9786 -572.3281 102.816</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>South Ruins of Guo-Lai Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1261.029 1916.059 349.5169</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>East Sra'vess Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>Sra'thik Deathmixer</Ignores>
+    <Spot>2727.486 5648.258 93.42219</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>West Sik'vess Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1333.846 4695.068 196.8214</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>Kor'vess Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>917.2745 3668.449 263.2774</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>North Sik'vess Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1467.057 4590.912 245.5991</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>The Feeding Pits Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2399.236 5972.17 54.3863</Spot>
+  </SubProfile>
+  <SubProfile>
+    <Name>West Sra'vess Digsite</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>2600.04 6013.468 72.85795</Spot>
+  </SubProfile>
+</LazyProfile>

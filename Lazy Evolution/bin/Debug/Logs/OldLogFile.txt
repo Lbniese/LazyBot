@@ -1,0 +1,49 @@
+[10:50:01 AM] Could not load a valid grinding profile
+[10:50:01 AM] Visit www.ownedcore.com for support.
+[10:50:01 AM] LazyBot Revolution is free and open source software!
+[10:50:01 AM] coded by Arutha!
+[10:50:01 AM] Keys should be placed on bar 1-6 and position 1-9!
+[10:50:01 AM] Attached
+[10:50:20 AM] Reset bar to first
+[10:50:22 AM] [Mapper] We loaded 94822 spells
+[10:50:22 AM] Found key: Blood Fury : 1 : 0
+[10:50:22 AM] Found key: Heroic Strike : 1 : 2
+[10:50:22 AM] Found key: Attack : 1 : 1
+[10:50:22 AM] Key: Blood Fury : 1 : 0 is a duplicate
+[10:50:22 AM] Key: Heroic Strike : 1 : 2 is a duplicate
+[10:50:22 AM] Key: Attack : 1 : 1 is a duplicate
+[10:50:22 AM] Key: interactmouseover potentially bound incorrectly, should be: u
+[10:50:22 AM] Key: interacttarget potentially bound incorrectly, should be: p
+[10:50:22 AM] Key: targetlasttarget potentially bound incorrectly, should be: g
+[10:50:24 AM] Bot stopping: No more subprofiles
+[10:50:25 AM] Bot stopping: Subprofile: Unnamed does not have any spots
+[10:50:25 AM] Could not find a valid spot - spot bot and load a valid profile
+[10:50:25 AM] Bot stopping: No more subprofiles
+[10:50:25 AM] Bot stopping: Subprofile: Unnamed does not have any spots
+[10:50:25 AM] Could not find a valid spot - spot bot and load a valid profile
+[10:50:25 AM] Could not load the behavior, please select a different one
+[10:50:25 AM] CustomClass returned false on StartOk not starting
+[10:50:25 AM] Bot stopping: No more subprofiles
+[10:50:25 AM] Reset bar to first
+[10:50:26 AM] Found key: Blood Fury : 1 : 0
+[10:50:26 AM] Found key: Heroic Strike : 1 : 2
+[10:50:26 AM] Found key: Attack : 1 : 1
+[10:50:26 AM] Key: Blood Fury : 1 : 0 is a duplicate
+[10:50:26 AM] Key: Heroic Strike : 1 : 2 is a duplicate
+[10:50:26 AM] Key: Attack : 1 : 1 is a duplicate
+[10:50:26 AM] Key: interactmouseover potentially bound incorrectly, should be: u
+[10:50:26 AM] Key: interacttarget potentially bound incorrectly, should be: p
+[10:50:26 AM] Key: targetlasttarget potentially bound incorrectly, should be: g
+[10:50:28 AM] Bot stopping: No more subprofiles
+[10:50:28 AM] Bot stopping: Subprofile: Unnamed does not have any spots
+[10:50:28 AM] Could not find a valid spot - spot bot and load a valid profile
+[10:50:28 AM] Bot stopping: No more subprofiles
+[10:50:28 AM] Bot stopping: Subprofile: Unnamed does not have any spots
+[10:50:28 AM] Could not find a valid spot - spot bot and load a valid profile
+[10:50:41 AM] Could not load the behavior, please select a different one
+[10:50:42 AM] CustomClass returned false on StartOk not starting
+[10:50:26 AM] Bot stopping: No more subprofiles
+[10:50:28 AM] Bot stopping: No more subprofiles
+[10:50:42 AM] Bot stopping: No more subprofiles
+[10:50:43 AM] Bot stopping: No more subprofiles
+[10:50:44 AM] Done closing

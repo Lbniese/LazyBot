@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<LazyProfile>
+  <PathName>Test mobs.xml</PathName>
+  <Vendors>
+  </Vendors>
+  <SubProfile>
+    <Name>Test Mobs</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-12.33662 -215.1969 -4.536471</Spot>
+    <Spot>-11.05412 -144.0308 -4.535348</Spot>
+    <Spot>8.536921 -110.5861 -4.535279</Spot>
+    <Spot>49.77678 -109.3473 -2.987854</Spot>
+    <Spot>63.89856 -56.71183 -2.749201</Spot>
+  </SubProfile>
+</LazyProfile>

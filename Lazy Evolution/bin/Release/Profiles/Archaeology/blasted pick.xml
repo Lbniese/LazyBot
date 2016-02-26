@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<LazyProfile>
+  <PathName>blasted pick.xml</PathName>
+  <Vendors>
+  </Vendors>
+  <SubProfile>
+    <Name>Blasted LAnds PickPocket</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>90</Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>-11364.64 -2559.079 80.14524</Spot>
+    <Spot>-11337.86 -2551.364 87.50119</Spot>
+    <Spot>-11262.48 -2529.063 97.0487</Spot>
+    <Spot>-11259.78 -2563.552 97.04942</Spot>
+    <Spot>-11305.72 -2580.604 89.35631</Spot>
+  </SubProfile>
+</LazyProfile>

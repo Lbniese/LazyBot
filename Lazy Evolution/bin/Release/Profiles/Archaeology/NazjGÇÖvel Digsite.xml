@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<LazyProfile>
+  <PathName>Nazj’vel Digsite.xml</PathName>
+  <Vendors>
+  </Vendors>
+  <SubProfile>
+    <Name>Unnamed</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4601.147 955.8283 53.73057</Spot>
+  </SubProfile>
+</LazyProfile>

@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<HarvestList>
+<!-- прочее -->
+  <Harvest><Name>Невозделанная земля</Name><Action>1</Action></Harvest>
+  <Harvest><Name>Ползучий сорняк</Name><Action>2</Action></Harvest>
+  <Harvest><Name>Упрямый сорняк</Name><Action>2</Action></Harvest>
+  <Harvest><Name>Возделанная земля</Name><Action>3</Action></Harvest>
+  <Harvest><Name>Занятая земля</Name><Action>11</Action></Harvest>
+<!-- капуста кале -->
+  <Harvest><Name>Зараженная капуста кале</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохшая капуста</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Высохшая органическая капуста кале</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивая капуста кале</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанная капуста кале</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающая капуста кале</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательная капуста кале</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикая капуста кале</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Перезрелая капуста кале</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелая капуста кале</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Крупная капуста кале</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелая органическая капуста кале</Name><Action>10</Action></Harvest>
+<!-- хрустящая морковь -->
+  <Harvest><Name>Зараженная хрустящая морковь</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохшая хрустящая морковь</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивая хрустящая морковь</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанная хрустящая морковь</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающая хрустящая морковь</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательная хрустящая морковь</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикая хрустящая морковь</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Перезрелая хрустящая морковь</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелая хрустящая морковь</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Крупная хрустящая морковь</Name><Action>10</Action></Harvest>
+<!-- лук-шалота -->
+  <Harvest><Name>Зараженный лук-шалота</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохший лук-шалота</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивый лук-шалота</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанный лук-шалота</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающий лук-шалота</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательный лук-шалота</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикий лук-шалота</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Перезрелый лук-шалота</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелый лук-шалота</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Крупный лук-шалота</Name><Action>10</Action></Harvest>
+<!-- тыква могу -->
+  <Harvest><Name>Зараженная тыква могу</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохшая тыква могу</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивая тыква могу</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанная тыква могу</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающая тыква могу</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательная тыква могу</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикая тыква могу</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Перезрелая тыква могу</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелая тыква могу</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Крупная тыква могу</Name><Action>10</Action></Harvest>
+<!-- красный лук-порей -->
+  <Harvest><Name>Зараженный красный лук-порей</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохший красный лук-порей</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивый красный лук-порей</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанный красный лук-порей</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающий красный лук-порей</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательный красный лук-порей</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикий красный лук-порей</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Перезрелый красный лук-порей</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелый красный лук-порей</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Крупный красный лук-порей</Name><Action>10</Action></Harvest>
+<!-- розовая репа -->
+  <Harvest><Name>Зараженная розовая репа</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохшая розовая репа</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивая розовая репа</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанная розовая репа</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающая </Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательная розовая репа</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикая розовая репа</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Перезрелая розовая репа</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелая розовая репа</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Крупная розовая репа</Name><Action>10</Action></Harvest>
+<!-- белая репа -->
+  <Harvest><Name>Зараженная белая репа</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохшая белая репа</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивая белая репа</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанная белая репа</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающая белая репа</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательная белая репа</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикая белая репа</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Перезрелая белая репа</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелая белая репа</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Крупная белая репа</Name><Action>10</Action></Harvest>
+<!-- нефритовый кабачок -->
+  <Harvest><Name>Зараженный нефритовый кабачок</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохший нефритовый кабачок</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивый нефритовый кабачок</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанный нефритовый кабачок</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Опутанный зеленый кабачок</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающий нефритовый кабачок</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательный нефритовый кабачок</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикий нефритовый кабачок</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Перезрелый нефритовый кабачок</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелый нефритовый кабачок</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Крупный нефритовый кабачок</Name><Action>10</Action></Harvest>
+<!-- ведьмина ягода -->
+  <Harvest><Name>Зараженная ведьмина ягода</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохшая ведьмина ягода</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивая ведьмина ягода</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанная ведьмина ягода</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающая ведьмина ягода</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательная ведьмина ягода</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикая ведьмина ягода</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Перезрелая ведьмина ягода</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелая ведьмина ягода</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Крупная ведьмина ягода</Name><Action>10</Action></Harvest>
+<!-- полосатая дыня -->
+  <Harvest><Name>Зараженная полосатая дыня</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохшая полосатая дыня</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивая полосатая дыня</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанная полосатая дыня</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающая полосатая дыня</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательная полосатая дыня</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикая полосатая дыня</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Перезрелая полосатая дыня</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Спелая полосатая дыня</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Крупная полосатая дыня</Name><Action>10</Action></Harvest>
+<!-- загадочное семечко -->
+  <Harvest><Name>Зараженное загадочное семечко</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохшее загадочное семечко</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивоезагадочное семечко</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанное загадочное семечко</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающее загадочное семечко</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательное загадочное семечко</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикое загадочное семечко</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Ваточник</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Лист зеленого чая</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Дождевой мак</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Дурногриб</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Снежная лилия</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Золотой лотос</Name><Action>10</Action></Harvest>
+<!-- волшебная луковица -->
+  <Harvest><Name>Зараженная волшебная луковица</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохшая волшебная луковица</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивая волшебная луковица</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанная волшебная луковица</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающая волшебная луковица</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательная волшебная луковица</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикая волшебная луковица</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Волшебная луковица</Name><Action>10</Action></Harvest>
+<!-- хищнолист -->
+  <Harvest><Name>Зараженный хищнолист</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохший хищнолист</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивый хищнолист</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанный хищнолист</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающий хищнолист</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательный хищнолист</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикий хищнолист</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Хищнолист</Name><Action>10</Action></Harvest>
+<!-- цикута -->
+  <Harvest><Name>Зараженная цикута</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохшая цикута</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивая цикута</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанная цикута</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающая цикута</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательная цикута</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикая цикута</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Цикута</Name><Action>10</Action></Harvest>
+<!-- кактус-ветрорез -->
+  <Harvest><Name>Зараженный кактус-ветрорез</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохший кактус-ветрорез</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивый кактус-ветрорез</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанный кактус-ветрорез</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающий кактус-ветрорез</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательный кактус-ветрорез</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикий кактус-ветрорез</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Кактус-ветрорез</Name><Action>10</Action></Harvest>
+<!-- Колокольчик -->
+  <Harvest><Name>Зараженный колокольчик</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Высохший колокольчик</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Строптивый колокольчик</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Опутанный колокольчик</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Ерзающий колокольчик</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Притягательный колокольчик</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Дикий колокольчик</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Колокольчик</Name><Action>10</Action></Harvest>
+<!-- осенее дерево -->
+  <Harvest><Name>Осеннее цветущее дерево</Name><Action>10</Action></Harvest>
+<!-- зимнее дерево  -->
+  <Harvest><Name>Зимнее цветущее дерево</Name><Action>10</Action></Harvest>
+<!-- весеннее дерево -->
+  <Harvest><Name>Весеннее дерево</Name><Action>10</Action></Harvest>
+</HarvestList>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<LazyProfile>
+  <PathName>Owl Wing Thicked Digsite.xml</PathName>
+  <Vendors>
+  </Vendors>
+  <SubProfile>
+    <Name>Unnamed</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>5564.873 -4946.772 833.9744</Spot>
+  </SubProfile>
+</LazyProfile>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<LazyProfile>
+  <PathName>Shaotien Rep For Panda.xml</PathName>
+  <Vendors>
+  </Vendors>
+  <SubProfile>
+    <Name>Shao-Tien Dominator</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>2578</Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>1481.063 1838.381 305.2412</Spot>
+    <Spot>1488.826 1826.354 308.6686</Spot>
+    <Spot>1467.916 1813.812 302.6797</Spot>
+    <Spot>1424.741 1801.808 300.3529</Spot>
+    <Spot>1414.08 1830.028 296.556</Spot>
+    <Spot>1418.456 1878.025 296.4684</Spot>
+    <Spot>1426.587 1934.174 299.627</Spot>
+    <Spot>1467.245 1903.358 296.5035</Spot>
+    <Spot>1455.413 1865.31 298.9774</Spot>
+    <Spot>1478.474 1855.356 304.6216</Spot>
+  </SubProfile>
+</LazyProfile>

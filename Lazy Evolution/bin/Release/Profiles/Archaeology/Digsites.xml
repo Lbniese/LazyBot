@@ -1,0 +1,2026 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Digsites xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Digsite>
+		<Original>Aerie Peak Digsite</Original>
+		<Location>128.0326 -2213.945 101.7834</Location>
+		<Continent>EK</Continent>
+		<enUS>Aerie Peak Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Nistgipfels</deDE>
+		<frFR>Site de fouilles de Nid-de-l'Aigle</frFR>
+		<esES>Excavación de Pico Nidal</esES>
+		<ruRU>Заоблачный пик - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Agol'watha Digsite</Original>
+		<Location>448.1649 -3350.256 119.4061</Location>
+		<Continent>EK</Continent>
+		<enUS>Agol'watha Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Agol'watha</deDE>
+		<frFR>Site de fouilles d'Agol'watha</frFR>
+		<esES>Excavación de Agol'watha</esES>
+		<ruRU>Агол'вата - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Altar of Zul Digsite</Original>
+		<Location>-219.1565 -3392.977 146.7383</Location>
+		<Continent>EK</Continent>
+		<enUS>Altar of Zul Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Altar von Zul</deDE>
+		<frFR>Site de fouilles de l'autel de Zul</frFR>
+		<esES>Excavación de El Altar de Zul</esES>
+		<ruRU>Алтарь Зула - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Andorhal Fossil Bank</Original>
+		<Location>1279.724 -967.954 62.19927</Location>
+		<Continent>EK</Continent>
+		<enUS>Andorhal Fossil Bank</enUS>
+		<deDE>Fossilienbank von Andorhal</deDE>
+		<frFR>Banc de fossiles d'Andorhal</frFR>
+		<esES>Banco de fósiles de Andorhal</esES>
+		<ruRU>Андорал - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Balia'mah Digsite</Original>
+		<Location>-12495.89 -747.9449 39.08484</Location>
+		<Continent>EK</Continent>
+		<enUS>Balia'mah Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Balia'mah</deDE>
+		<frFR>Site de fouilles de Balia'mah</frFR>
+		<esES>Excavación de Balia'mah</esES>
+		<ruRU>Балиа'ма - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Bal'lal Ruins Digsite</Original>
+		<Location>-12029.67 410.3929 4.571701</Location>
+		<Continent>EK</Continent>
+		<enUS>Bal'lal Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Bal'lal</deDE>
+		<frFR>Site de fouilles des ruines de Bal'lal</frFR>
+		<esES>Excavación de la Ruina de Bal'lal</esES>
+		<ruRU>Руины Бал'лал - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Dreadmaul Fossil Field</Original>
+		<Location>-11374.32 -2789.476 3.784139</Location>
+		<Continent>EK</Continent>
+		<enUS>Dreadmaul Fossil Field</enUS>
+		<deDE>Fossilienfeld am Schreckensfelsen</deDE>
+		<frFR>Champ de fossiles Cognepeur</frFR>
+		<esES>Campo de fósiles Machacamiedo</esES>
+		<ruRU>Молот Ужаса - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Dun Garok Digsite</Original>
+		<Location>-1252.918 -1170.065 40.61633</Location>
+		<Continent>EK</Continent>
+		<enUS>Dun Garok Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Dun Garok</deDE>
+		<frFR>Site de fouilles de Dun Garok</frFR>
+		<esES>Excavación de Dun Garok</esES>
+		<ruRU>Дун Гарок - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Dunwald Ruins Digsite</Original>
+		<Location>-4714.877 -4896.436 155.8463</Location>
+		<Continent>EK</Continent>
+		<enUS>Dunwald Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Dunwald</deDE>
+		<frFR>Site de fouilles des ruines de Dunwald</frFR>
+		<esES>Excavación de las Ruinas Montocre</esES>
+		<ruRU>Развалины Дунвальда - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Eastern Ruins of Thaurissan</Original>
+		<Location>-7818.848 -2111.401 132.721</Location>
+		<Continent>EK</Continent>
+		<enUS>Eastern Ruins of Thaurissan</enUS>
+		<deDE>Östliche Ruinen von Thaurissan</deDE>
+		<frFR>Ruines est de Thaurissan</frFR>
+		<esES>Ruinas de Thaurissan del Este</esES>
+		<ruRU>Восточные руины Тауриссана</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Eastern Zul'Kunda Digsite</Original>
+		<Location>-11703.01 560.7457 49.25824</Location>
+		<Continent>EK</Continent>
+		<enUS>Eastern Zul'Kunda Digsite</enUS>
+		<deDE>Östliche Ausgrabungsstätte von Zul'Kunda</deDE>
+		<frFR>Site de fouilles de Zul'Kunda est</frFR>
+		<esES>Excavación de Zul'Kunda del Este</esES>
+		<ruRU>Восточная Зул'Кунда - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Eastern Zul'Mamwe Digsite</Original>
+		<Location>-12985.26 -840.8251 70.63871</Location>
+		<Continent>EK</Continent>
+		<enUS>Eastern Zul'Mamwe Digsite</enUS>
+		<deDE>Östliche Ausgrabungsstätte von Zul'Mamwe</deDE>
+		<frFR>Site de fouilles de Zul'Mamwe est</frFR>
+		<esES>Excavación de Zul'Mamwe del Este</esES>
+		<ruRU>Восточный Зул'Мамве - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Felstone Fossil Field</Original>
+		<Location>1714.27 -1189.005 59.64742</Location>
+		<Continent>EK</Continent>
+		<enUS>Felstone Fossil Field</enUS>
+		<deDE>Teufelssteinfossilienfeld</deDE>
+		<frFR>Champ de fossiles de Gangrepierre</frFR>
+		<esES>Campo de fósiles Piedramácula</esES>
+		<ruRU>Поле Джанис - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Greenwarden's Fossil Bank</Original>
+		<Location>-3527.065 -3015.923 10.21442</Location>
+		<Continent>EK</Continent>
+		<enUS>Greenwarden's Fossil Bank</enUS>
+		<deDE>Fossilienbank des Grünen Gürtels</deDE>
+		<frFR>Banc de fossiles du Gardien vert</frFR>
+		<esES>Banco de fósiles del Guardaverde</esES>
+		<ruRU>Роща Стража Природы - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Grim Batol Digsite</Original>
+		<Location>-4077.89 -3871.719 186.1925</Location>
+		<Continent>EK</Continent>
+		<enUS>Grim Batol Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Grim Batol</deDE>
+		<frFR>Site de fouilles de Grim Batol</frFR>
+		<esES>Excavación de Grim Batol</esES>
+		<ruRU>Грим Батол - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Grimsilt Digsite</Original>
+		<Location>-7007.907 -1725.626 234.0992</Location>
+		<Continent>EK</Continent>
+		<enUS>Grimsilt Digsite</enUS>
+		<deDE>Grimsilt Digsite</deDE>
+		<frFR>Grimsilt Digsite</frFR>
+		<esES>Grimsilt Digsite</esES>
+		<ruRU>Гримсилт - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Gurubashi Arena Digsite</Original>
+		<Location>-13057.31 257.5848 26.42727</Location>
+		<Continent>EK</Continent>
+		<enUS>Gurubashi Arena Digsite</enUS>
+		<deDE>Ausgrabungsstätte an der Arena der Gurubashiarena</deDE>
+		<frFR>Site de fouilles de l'arène des Gurubashi</frFR>
+		<esES>Excavación de la Arena Gurubashi</esES>
+		<ruRU>Арена Гурубаши - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Hammertoe's Digsite</Original>
+		<Location>-6434.182 -3403.056 229.720</Location>
+		<Continent>EK</Continent>
+		<enUS>Hammertoe's Digsite</enUS>
+		<deDE>Hammerzehs Grabungsstätte</deDE>
+		<frFR>Site de fouilles de Martèlorteil</frFR>
+		<esES>Excavación de Piemartillo</esES>
+		<ruRU>Карьер Тяжелоступа - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Humboldt Conflagration Digsite</Original>
+		<Location>-2959.902 -4610.14 137.267</Location>
+		<Continent>EK</Continent>
+		<enUS>Humboldt Conflagration Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Humboldtfeuersbrunst</deDE>
+		<frFR>Site de fouilles de la déflagration de Humboldt</frFR>
+		<esES>Excavación de la Conflagración de Humboldt</esES>
+		<ruRU>Пожарище Гумбольдта - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Infectis Scar Fossil Field</Original>
+		<Location>1991.954 -4249.808 80.46582</Location>
+		<Continent>EK</Continent>
+		<enUS>Infectis Scar Fossil Field</enUS>
+		<deDE>Fossilienfeld der Infektnarbe</deDE>
+		<frFR>Champ de fossiles de la Balafre infecte</frFR>
+		<esES>Campo de fósiles de La Cicatriz Purulenta</esES>
+		<ruRU>Чумной овраг - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ironband's Excavation Site</Original>
+		<Location>-5645.529 -3839.792 322.3825</Location>
+		<Continent>EK</Continent>
+		<enUS>Ironband's Excavation Site</enUS>
+		<deDE>Eisenbands Ausgrabungsstätte</deDE>
+		<frFR>Excavations de Baguefer</frFR>
+		<esES>Excavación de Vetaferro</esES>
+		<ruRU>Раскопки Сталекрута</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ironbeard's Tomb</Original>
+		<Location>-2871.715 -2254.744 28.10567</Location>
+		<Continent>EK</Continent>
+		<enUS>Ironbeard's Tomb</enUS>
+		<deDE>Eisenbarts Grabmal</deDE>
+		<frFR>Tombe de Barbe-de-fer</frFR>
+		<esES>Tumba de Barbaférrea</esES>
+		<ruRU>Гробница Железноборода</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Jintha'Alor Lower City Digsite</Original>
+		<Location>-282.1138 -4165.367 136.5241</Location>
+		<Continent>EK</Continent>
+		<enUS>Jintha'Alor Lower City Digsite</enUS>
+		<deDE>Ausgrabungsstätte des unteren Viertels von Jintha'Alor</deDE>
+		<frFR>Site de fouilles de la ville basse de Jinth'Alor</frFR>
+		<esES>Excavación de la parte baja de Jintha'Alor</esES>
+		<ruRU>Джинта'Алор</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Jintha'Alor Upper City Digsite</Original>
+		<Location>-242.1566 -3907.485 215.8609</Location>
+		<Continent>EK</Continent>
+		<enUS>Jintha'Alor Upper City Digsite</enUS>
+		<deDE>Ausgrabungsstätte des oberen Viertels von Jintha'Alor</deDE>
+		<frFR>Site de fouilles de la ville haute de Jinth'Alor</frFR>
+		<esES>Excavación de la parte alta de Jintha'Alor</esES>
+		<ruRU>Джинта'Алор</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Lakeridge Highway Fossil Bank</Original>
+		<Location>-9668.737 -2650.012 61.77633</Location>
+		<Continent>EK</Continent>
+		<enUS>Lakeridge Highway Fossil Bank</enUS>
+		<deDE>Fossilienbank am Uferpfad</deDE>
+		<frFR>Banc de fossiles de la grand-route de la crête du Lac</frFR>
+		<esES>Banco de fósiles del Camino del Lago</esES>
+		<ruRU>Озерный тракт - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Misty Reed Fossil Bank</Original>
+		<Location>-10915.62 -4168.13 7.060036</Location>
+		<Continent>EK</Continent>
+		<enUS>Misty Reed Fossil Bank</enUS>
+		<deDE>Fossilienbank am Nebelschilfstrand</deDE>
+		<frFR>Banc de fossiles de Brumejonc</frFR>
+		<esES>Banco de fósiles de Juncobruma</esES>
+		<ruRU>Тростниковый берег - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Nek'mani Wellspring Digsite</Original>
+		<Location>-13847.43 441.3317 89.60265</Location>
+		<Continent>EK</Continent>
+		<enUS>Nek'mani Wellspring Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Nek'maniquellbrunnen</deDE>
+		<frFR>Site de fouilles de la fontaine des Nek'mani</frFR>
+		<esES>Excavación del Manantial Nek'mani</esES>
+		<ruRU>Родник Нек'Мани - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Northridge Fossil Field</Original>
+		<Location>2353.841 -1674.433 107.0159</Location>
+		<Continent>EK</Continent>
+		<enUS>Northridge Fossil Field</enUS>
+		<deDE>Fossilienfeld am Nordkamm</deDE>
+		<frFR>Champ de fossiles de la crête du Nord</frFR>
+		<esES>Campo de fósiles Crestanorte</esES>
+		<ruRU>Северный Кряж - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Plaguewood Digsite</Original>
+		<Location>3023.174 -3768.994 124.9332</Location>
+		<Continent>EK</Continent>
+		<enUS>Plaguewood Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Pestwaldes</deDE>
+		<frFR>Site de fouilles de Pestebois</frFR>
+		<esES>Excavación del Bosque de la Peste</esES>
+		<ruRU>Чумной лес - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Pyrox Flats Digsite</Original>
+		<Location>-6743.036 -1155.333 241.2003</Location>
+		<Continent>EK</Continent>
+		<enUS>Pyrox Flats Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Pyroxebenen</deDE>
+		<frFR>Site de fouilles de la plaine de Pyrox</frFR>
+		<esES>Excavación de Llanos de Pirox</esES>
+		<ruRU>Пироксовые равнины - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Quel'Lithien Lodge Digsite</Original>
+		<Location>3411.332 -4237.149 158.3372</Location>
+		<Continent>EK</Continent>
+		<enUS>Quel'Lithien Lodge Digsite</enUS>
+		<deDE>Ausgrabungsstätte bei der Jagdhütte Quel'Lithien</deDE>
+		<frFR>Site de fouilles du gîte de Quel'Lithien</frFR>
+		<esES>Excavación del Refugio Quel'Lithien</esES>
+		<ruRU>Сторожка Кель'Литиен - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Red Reaches Fossil Bank</Original>
+		<Location>-12538.51 -3613.502 4.820639</Location>
+		<Continent>EK</Continent>
+		<enUS>Red Reaches Fossil Bank</enUS>
+		<deDE>Fossilienbank der Roten Weiten</deDE>
+		<frFR>Banc de fossiles des confins Rouges</frFR>
+		<esES>Banco de fósiles de Las Costas Rojas</esES>
+		<ruRU>Красные берега - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Aboraz</Original>
+		<Location>-13658.57 -312.4579 8.175773</Location>
+		<Continent>EK</Continent>
+		<enUS>Ruins of Aboraz</enUS>
+		<deDE>Ruinen von Aboraz</deDE>
+		<frFR>Ruines d'Aboraz</frFR>
+		<esES>Ruinas de Aboraz</esES>
+		<ruRU>Руины Абораза</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Jubuwal</Original>
+		<Location>-13379.51 24.14141 20.66071</Location>
+		<Continent>EK</Continent>
+		<enUS>Ruins of Jubuwal</enUS>
+		<deDE>Ruinen von Jubuwal</deDE>
+		<frFR>Ruines de Jubuwal</frFR>
+		<esES>Ruinas de Jubuwal</esES>
+		<ruRU>Руины Жубуваля</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Savage Coast Raptor Fields</Original>
+		<Location>-12177.01 208.297 4.135032</Location>
+		<Continent>EK</Continent>
+		<enUS>Savage Coast Raptor Fields</enUS>
+		<deDE>Raptorfelder der Ungezähmten Küste</deDE>
+		<frFR>Champs de raptors de la côte Sauvage</frFR>
+		<esES>Campos de raptores de La Costa Salvaje</esES>
+		<ruRU>Гибельный берег</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Shadra'Alor Digsite</Original>
+		<Location>-303.8269 -2953.931 80.48965</Location>
+		<Continent>EK</Continent>
+		<enUS>Shadra'Alor Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Shadra'Alor</deDE>
+		<frFR>Site de fouilles de Shadra'Alor</frFR>
+		<esES>Excavación de Shadra'Alor</esES>
+		<ruRU>Шадра'Алор - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Southshore Fossil Field</Original>
+		<Location>-447.7686 -1038.374 37.62551</Location>
+		<Continent>EK</Continent>
+		<enUS>Southshore Fossil Field</enUS>
+		<deDE>Fossilienfeld von Süderstade</deDE>
+		<frFR>Champ de fossiles d'Austrivage</frFR>
+		<esES>Campo de fósiles de Costasur</esES>
+		<ruRU>Южнобережье - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Sunken Temple Digsite</Original>
+		<Location>-10604.05 -3731.071 23.29418</Location>
+		<Continent>EK</Continent>
+		<enUS>Sunken Temple Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Versunkenen Tempels</deDE>
+		<frFR>Site de fouilles du temple Englouti</frFR>
+		<esES>Excavación del Templo Sumergido</esES>
+		<ruRU>Затонувший храм - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Terror Wing Fossil Field</Original>
+		<Location>-8081.875 -2943.557 134.9109</Location>
+		<Continent>EK</Continent>
+		<enUS>Terror Wing Fossil Field</enUS>
+		<deDE>Fossilienfeld am Schreckenspfad</deDE>
+		<frFR>Champ de fossiles de l'Aile de la terreur</frFR>
+		<esES>Campo de fósiles del Ala del Terror</esES>
+		<ruRU>Тропа Крылатого Ужаса - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Terrorweb Tunnel Digsite</Original>
+		<Location>3040.162 -2840.278 105.8487</Location>
+		<Continent>EK</Continent>
+		<enUS>Terrorweb Tunnel Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Schreckenstunnels</deDE>
+		<frFR>Site de fouilles du tunnel de Tisse-terreur</frFR>
+		<esES>Excavación del Túnel Terroarácnido</esES>
+		<ruRU>Туннель Ужаса - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Thandol Span</Original>
+		<Location>-2492.953 -2497.318 80.26774</Location>
+		<Continent>EK</Continent>
+		<enUS>Thandol Span</enUS>
+		<deDE>Thandolübergang</deDE>
+		<frFR>Viaduc de Thandol</frFR>
+		<esES>Puente Thandol</esES>
+		<ruRU>Мост Тандола</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Thoradin's Wall</Original>
+		<Location>-754.824 -1706.92 56.09726</Location>
+		<Continent>EK</Continent>
+		<enUS>Thoradin's Wall</enUS>
+		<deDE>Thoradinswall</deDE>
+		<frFR>Mur de Thoradin</frFR>
+		<esES>Muralla de Thoradin</esES>
+		<ruRU>Стена Торадина</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Thundermar Ruins Digsite</Original>
+		<Location>-3239.318 -5216.132 91.0942</Location>
+		<Continent>EK</Continent>
+		<enUS>Thundermar Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Donnermar</deDE>
+		<frFR>Site de fouilles des ruines de Tonnemar</frFR>
+		<esES>Excavación de las Ruinas de Bramal</esES>
+		<ruRU>Руины Громтара - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Tomb of the Watchers Digsite</Original>
+		<Location>-6839.089 -3409.531 241.6533</Location>
+		<Continent>EK</Continent>
+		<enUS>Tomb of the Watchers Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Grab der Behüter</deDE>
+		<frFR>Site de fouilles du tombeau des Gardiens</frFR>
+		<esES>Excavación de la Tumba de los Vigías</esES>
+		<ruRU>Гробница Стражей - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Twilight Grove Digsite</Original>
+		<Location>-10497.03 -399.0789 50.24178</Location>
+		<Continent>EK</Continent>
+		<enUS>Twilight Grove Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Zwielichtshain</deDE>
+		<frFR>Site de fouilles du bosquet Crépusculaire</frFR>
+		<esES>Excavación de la Arboleda del Crepúsculo</esES>
+		<ruRU>Мглистая роща - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Uldaman Entrance Digsite</Original>
+		<Location>-6066.334 -3216.959 262.8853</Location>
+		<Continent>EK</Continent>
+		<enUS>Uldaman Entrance Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Eingang nach Uldaman</deDE>
+		<frFR>Site de fouilles de l'entrée d'Uldaman</frFR>
+		<esES>Excavación de la Entrada de Uldaman</esES>
+		<ruRU>Вход в Ульдаман - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Vul'Gol Fossil Bank</Original>
+		<Location>-11032.7 -88.52853 16.40986</Location>
+		<Continent>EK</Continent>
+		<enUS>Vul'Gol Fossil Bank</enUS>
+		<deDE>Fossilienbank von Vul'Gol</deDE>
+		<frFR>Banc de fossiles de Vul'Gol</frFR>
+		<esES>Banco de fósiles de Vul'Gol</esES>
+		<ruRU>Вул'Гол - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Western Ruins of Thaurissan</Original>
+		<Location>-7778.203 -1852.136 133.7726</Location>
+		<Continent>EK</Continent>
+		<enUS>Western Ruins of Thaurissan</enUS>
+		<deDE>Westliche Ruinen von Thaurissan</deDE>
+		<frFR>Ruines de Thaurissan ouest</frFR>
+		<esES>Ruinas de Thaurissan del Oeste</esES>
+		<ruRU>Западные руины Тауриссана</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Western Zul'Kunda Digsite</Original>
+		<Location>-11631.63 752.5016 39.76579</Location>
+		<Continent>EK</Continent>
+		<enUS>Western Zul'Kunda Digsite</enUS>
+		<deDE>Westliche Ausgrabungsstätte von Zul'Kunda</deDE>
+		<frFR>Site de fouilles de Zul'Kunda ouest</frFR>
+		<esES>Excavación de Zul'Kunda del Oeste</esES>
+		<ruRU>Западная Зул'Кунда - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Western Zul'Mamwe Digsite</Original>
+		<Location>-12959.72 -625.2701 53.19345</Location>
+		<Continent>EK</Continent>
+		<enUS>Western Zul'Mamwe Digsite</enUS>
+		<deDE>Westliche Ausgrabungsstätte von Zul'Mamwe</deDE>
+		<frFR>Site de fouilles de Zul'Mamwe ouest</frFR>
+		<esES>Excavación de Zul'Mamwe del Oeste</esES>
+		<ruRU>Западный Зул'Мамве - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Whelgar's Excavation Site</Original>
+		<Location>-3483.849 -1796.921 16.41685</Location>
+		<Continent>EK</Continent>
+		<enUS>Whelgar's Excavation Site</enUS>
+		<deDE>Whelgars Ausgrabungsstätte</deDE>
+		<frFR>Excavations de Whelgar</frFR>
+		<esES>Excavación de Whelgar</esES>
+		<ruRU>Раскопки Вельгара</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Witherbark Digsite</Original>
+		<Location>-1894.017 -3320.281 48.89086</Location>
+		<Continent>EK</Continent>
+		<enUS>Witherbark Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Bleichborken</deDE>
+		<frFR>Site de fouilles de Fanécorce</frFR>
+		<esES>Excavación Secacorteza</esES>
+		<ruRU>Деревня Сухокожих - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ziata'jai Digsite</Original>
+		<Location>-12702.76 -460.6199 39.51105</Location>
+		<Continent>EK</Continent>
+		<enUS>Ziata'jai Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Ziata'jai</deDE>
+		<frFR>Site de fouilles de Ziata'jai</frFR>
+		<esES>Excavación de Ziata'jai</esES>
+		<ruRU>Зиата'джаи - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Zul'Mashar Digsite</Original>
+		<Location>3406.586 -4947.232 164.3582</Location>
+		<Continent>EK</Continent>
+		<enUS>Zul'Mashar Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Zul'Mashar</deDE>
+		<frFR>Site de fouilles de Zul'Mashar</frFR>
+		<esES>Excavación de Zul'Mashar</esES>
+		<ruRU>Зул'Машар - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Abyssal Sands Fossil Ridge</Original>
+		<Location>-7958.403 -3270.63 60.47123</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Abyssal Sands Fossil Ridge</enUS>
+		<deDE>Fossilienkamm der Ewigen Sande</deDE>
+		<frFR>Crête de fossiles du désert Abysséen</frFR>
+		<esES>Cresta de fósiles de las Arenas Abisales</esES>
+		<ruRU>Безбрежные пески - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Akhenet Fields Digsite</Original>
+		<Location>-10234.7 -884.8256 60.57428</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Akhenet Fields Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Felder von Akhenet</deDE>
+		<frFR>Site de fouilles des champs d'Akhenet</frFR>
+		<esES>Excavación de los Campos de Akhenet</esES>
+		<ruRU>Поля Акхенет - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Bael Modan Digsite</Original>
+		<Location>-4094.947 -2147.968 50.55216</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Bael Modan Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Bael Modan</deDE>
+		<frFR>Site de fouilles de Bael Modan</frFR>
+		<esES>Excavación de Bael Modan</esES>
+		<ruRU>Бейл Модан - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Broken Commons Digsite</Original>
+		<Location>-3877.586 1125.762 154.7885</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Broken Commons Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Zerstörten Allmende</deDE>
+		<frFR>Site de fouilles des communs en ruine</frFR>
+		<esES>Excavación de la Ágora</esES>
+		<ruRU>Разоренные земли - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Broken Pillar Digsite</Original>
+		<Location>-7976.934 -3860.56 18.0757</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Broken Pillar Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Zerbrochenen Säule</deDE>
+		<frFR>Site de fouilles du pilier brisé</frFR>
+		<esES>Excavación del Pilar Partido</esES>
+		<ruRU>Разбитая Колонна - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Constellas Digsite</Original>
+		<Location>4526.603 -498.5487 303.0454</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Constellas Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Constellas</deDE>
+		<frFR>Site de fouilles de Constellas</frFR>
+		<esES>Excavación de Constellas</esES>
+		<ruRU>Констеллас - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Cursed Landing Digsite</Original>
+		<Location>-10128.57 -2724.764 10.87787</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Cursed Landing Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Verfluchten Landeplatz</deDE>
+		<frFR>Site de fouilles de l'accostage Maudit</frFR>
+		<esES>Excavación de El Embarcadero Maldito</esES>
+		<ruRU>Проклятый лагерь - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Darkmist Digsite</Original>
+		<Location>-5054.17 940.0648 154.394</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Darkmist Digsite</enUS>
+		<deDE>Ausgrabungsstätte bei Graunebel</deDE>
+		<frFR>Site de fouilles de Sombrebrume</frFR>
+		<esES>Excavación de Niebla Negra</esES>
+		<ruRU>Мглистая пещера - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Dire Maul Digsite</Original>
+		<Location>-4534.737 1329.623 116.1158</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Dire Maul Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Düsterbruchs</deDE>
+		<frFR>Site de fouilles de Hache-Tripes</frFR>
+		<esES>Excavación de La Masacre</esES>
+		<ruRU>Забытый Город - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Dunemaul Fossil Ridge</Original>
+		<Location>-8830.778 -3001.28 36.9169</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Dunemaul Fossil Ridge</enUS>
+		<deDE>Fossilienkamm der Dünenbrecher</deDE>
+		<frFR>Crête de fossiles des Cognedunes</frFR>
+		<esES>Cresta de fósiles de Machacaduna</esES>
+		<ruRU>Песчаный Молот - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Eastmoon Ruins Digsite</Original>
+		<Location>-8872.235 -3458.544 10.76252</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Eastmoon Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ostmondruinen</deDE>
+		<frFR>Site de fouilles des ruines d'Estelune</frFR>
+		<esES>Excavación de las Ruinas de Lunaeste</esES>
+		<ruRU>Руины Восточной Луны - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ethel Rethor Digsite</Original>
+		<Location>-342.1216 2375.139 40.62818</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ethel Rethor Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Ethel Rethor</deDE>
+		<frFR>Site de fouilles d'Ethel Rethor</frFR>
+		<esES>Excavación de Ethel Rethor</esES>
+		<ruRU>Этель-Ретор - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Fields of Blood Fossil Bank</Original>
+		<Location>-1961.351 -2009.234 95.52148</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Fields of Blood Fossil Bank</enUS>
+		<deDE>Fossilienbank der Felder des Blutes</deDE>
+		<frFR>Banc de fossiles des champs du Sang</frFR>
+		<esES>Banco de fósiles de los Campos de Sangre</esES>
+		<ruRU>Кровавые поля - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Forest Song Digsite</Original>
+		<Location>2926.91 -3177.11 173.0129</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Forest Song Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Waldeslied</deDE>
+		<frFR>Site de fouilles de Chant des forêts</frFR>
+		<esES>Excavación de la Canción del Bosque</esES>
+		<ruRU>Лесная Песнь - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Frostwhisper Gorge Digsite</Original>
+		<Location>5316.415 -4670.594 691.7073</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Frostwhisper Gorge Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Frosthauchschlucht</deDE>
+		<frFR>Site de fouilles du Blanc murmure</frFR>
+		<esES>Excavación del Cañón Levescarcha</esES>
+		<ruRU>Теснина Ледяного Шепота - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Grove of Aessina Digsite</Original>
+		<Location>5153.706 -1766.261 1337.593</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Grove of Aessina Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Hains von Aessina</deDE>
+		<frFR>Site de fouilles du bosquet d'Aessina</frFR>
+		<esES>Excavación de la Arboleda de Aessina</esES>
+		<ruRU>Роща Эссины - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ironwood Digsite</Original>
+		<Location>5964.667 -1175.413 381.7138</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ironwood Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Eisenwaldes</deDE>
+		<frFR>Site de fouilles bois-de-fer</frFR>
+		<esES>Excavación de maderaférrea</esES>
+		<ruRU>Железнолесья - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Jaedenar Digsite</Original>
+		<Location>4876.374 -564.0376 313.0855</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Jaedenar Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Jaedenar</deDE>
+		<frFR>Site de fouilles de Jaedenar</frFR>
+		<esES>Excavación de Jaedenar</esES>
+		<ruRU>Джеденар - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Keset Pass Digsite</Original>
+		<Location>-9919.472 -2382.738 14.27782</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Keset Pass Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Kesetpass</deDE>
+		<frFR>Site de fouilles de la passe de Keset</frFR>
+		<esES>Excavación del Paso de Keset</esES>
+		<ruRU>Тропа Кесета - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Khartut's Tomb Digsite</Original>
+		<Location>-9010.968 -1544.463 94.5388</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Khartut's Tomb Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Grabs des Khartut</deDE>
+		<frFR>Site de fouilles de la tombe de Khartut</frFR>
+		<esES>Excavación de la Tumba de Khartut</esES>
+		<ruRU>Гробница Хартута - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Kodo Graveyard</Original>
+		<Location>-1350.206 1867.705 46.00742</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Kodo Graveyard</enUS>
+		<deDE>Kodofriedhof</deDE>
+		<frFR>Cimetière des Kodos</frFR>
+		<esES>Cementerio de Kodos</esES>
+		<ruRU>Кладбище кодо</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Lake Kel'Theril Digsite</Original>
+		<Location>6515.884 -4121.59 660.3055</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Lake Kel'Theril Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Kel'Therilsees</deDE>
+		<frFR>Site de fouilles du lac Kel'Theril</frFR>
+		<esES>Excavación del Lago Kel'Theril</esES>
+		<ruRU>Озеро Кел'Терил - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Lower Lakkari Tar Pits</Original>
+		<Location>-6678.534 -1409.592 -220.4259</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Lower Lakkari Tar Pits</enUS>
+		<deDE>Untere Teergruben von Lakkari</deDE>
+		<frFR>Fosses de goudron de Lakkari inférieures</frFR>
+		<esES>Fosas de Alquitrán inferiores</esES>
+		<ruRU>Нижние Смоляные ямы Лаккари</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Mannoroc Coven Digsite</Original>
+		<Location>-1912.217 1858.122 63.88215</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Mannoroc Coven Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Zirkel der Mannoroc</deDE>
+		<frFR>Site de fouilles du convent de Mannoroc</frFR>
+		<esES>Excavación del Aquelarre Mannoroc</esES>
+		<ruRU>Поле Маннорок - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Marshlands Fossil Bank</Original>
+		<Location>-7606.451 -1948.707 -270.3847</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Marshlands Fossil Bank</enUS>
+		<deDE>Fossilienbank der Marschen</deDE>
+		<frFR>Banc de fossiles de la Fondrière</frFR>
+		<esES>Banco de fósiles de Los Pantanales</esES>
+		<ruRU>Топи - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Morlos'Aran Digsite</Original>
+		<Location>3804.788 -1676.957 271.5288</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Morlos'Aran Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Morlos'Aran</deDE>
+		<frFR>Site de fouilles de Morlos'Aran</frFR>
+		<esES>Excavación de Morlos'Aran</esES>
+		<ruRU>Морлос'Аран - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Nazj'vel Digsite</Original>
+		<Location>4579.013 930.5016 45.96289</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Nazj'vel Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Nazj'vel</deDE>
+		<frFR>Site de fouilles Nazj'vel</frFR>
+		<esES>Excavación de Nazj'vel</esES>
+		<ruRU>Назж'вел - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Neferset Digsite</Original>
+		<Location>-11298.65 -682.3199 121.0163</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Neferset Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Neferset</deDE>
+		<frFR>Site de fouilles de Neferset</frFR>
+		<esES>Excavación de Neferset</esES>
+		<ruRU>Неферсет - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Nightmare Scar Digsite</Original>
+		<Location>-1699.518 -2207.55 97.81119</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Nightmare Scar Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Alptraumnarbe</deDE>
+		<frFR>Site de fouilles de la balafre du Cauchemar</frFR>
+		<esES>Excavación del Paraje Pesadilla</esES>
+		<ruRU>Ров Кошмаров - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>North Isildien Digsite</Original>
+		<Location>-4955.451 1192.936 58.15707</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>North Isildien Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Nordisildien</deDE>
+		<frFR>Site de fouilles d'Isildien nord</frFR>
+		<esES>Excavación de Isildien norte</esES>
+		<ruRU>Северный Исильдиэн - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Obelisk of the Stars Digsite</Original>
+		<Location>-9308.934 -1541.981 65.45319</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Obelisk of the Stars Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Obelisken der Sterne</deDE>
+		<frFR>Site de fouilles de l'obélisque des Étoiles</frFR>
+		<esES>Excavación del Obelisco de las Estrellas</esES>
+		<ruRU>Обелиск Звезд - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Oneiros Digsite</Original>
+		<Location>-3115.147 1716.878 51.36042</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Oneiros Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Oneiros</deDE>
+		<frFR>Site de fouilles d'Oneiros</frFR>
+		<esES>Excavación de Oneiros</esES>
+		<ruRU>Онейрос - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Orsis Digsite</Original>
+		<Location>-9861.476 -23.45357 55.64368</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Orsis Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Orsis</deDE>
+		<frFR>Site de fouilles d'Orsis</frFR>
+		<esES>Excavación de Orsis</esES>
+		<ruRU>Орсис - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Owl Wing Thicket Digsite</Original>
+		<Location>5664.104 -4967.458 823.0709</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Owl Wing Thicket Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Eulenflügeldickichts</deDE>
+		<frFR>Site de fouilles du fourré de l'Aile de la chouette</frFR>
+		<esES>Excavación del Matorral del Ala del Búho</esES>
+		<ruRU>Совиная чаща - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Quagmire Fossil Field</Original>
+		<Location>-3945.406 -3509.492 38.00027</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Quagmire Fossil Field</enUS>
+		<deDE>Fossilienfeld im Morast</deDE>
+		<frFR>Champ de fossiles du Bourbier</frFR>
+		<esES>Campo de fósiles de El Lodazal</esES>
+		<ruRU>Трясина - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ravenwind Digsite</Original>
+		<Location>-2953.382 2743.643 51.49717</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ravenwind Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Rabenwind</deDE>
+		<frFR>Site de fouilles de Vent-du-Corbeau</frFR>
+		<esES>Excavación de las Ruinas de Viento Azabache</esES>
+		<ruRU>Яростный Ветер - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>River Delta Digsite</Original>
+		<Location>-11229.95 -1624.773 50.9303</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>River Delta Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Flussdelta</deDE>
+		<frFR>Site de fouilles du delta du fleuve</frFR>
+		<esES>Excavación del Delta</esES>
+		<ruRU>Дельта Вир'наала - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Ahmtul Digsite</Original>
+		<Location>-8721.559 -386.5807 186.7388</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ruins of Ahmtul Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Ahmtul</deDE>
+		<frFR>Site de fouilles des ruines d'Ahmtul</frFR>
+		<esES>Excavación de las Ruinas de Ahmtul</esES>
+		<ruRU>Руины Атмула - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Ammon Digsite</Original>
+		<Location>-10761.89 368.7981 24.41182</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ruins of Ammon Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Ammon</deDE>
+		<frFR>Site de fouilles des ruines d'Ammon</frFR>
+		<esES>Excavación de las Ruinas de Ammon</esES>
+		<ruRU>Руины Аммона - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Arkkoran</Original>
+		<Location>4206.907 -7316.263 11.87066</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ruins of Arkkoran</enUS>
+		<deDE>Ruinen von Arkkoran</deDE>
+		<frFR>Ruines d'Arkkoran</frFR>
+		<esES>Ruinas de Arkkoran</esES>
+		<ruRU>Руины храма Арккоран</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Eldarath</Original>
+		<Location>3545.474 -5201.344 82.52979</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ruins of Eldarath</enUS>
+		<deDE>Ruinen von Eldarath</deDE>
+		<frFR>Ruines d'Eldarath</frFR>
+		<esES>Ruinas de Eldarath</esES>
+		<ruRU>Руины Эльдарата</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Eldre'Thar</Original>
+		<Location>392.5565 1042.774 227.647</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ruins of Eldre'Thar</enUS>
+		<deDE>Ruinen von Eldre'Thar</deDE>
+		<frFR>Ruines d'Eldre'Thar</frFR>
+		<esES>Ruinas de Eldre'thar</esES>
+		<ruRU>Руины Эльдре'тара</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Khintaset Digsite</Original>
+		<Location>-8730.21 306.3099 329.2257</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ruins of Khintaset Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Khintaset</deDE>
+		<frFR>Site de fouilles des ruines de Khintaset</frFR>
+		<esES>Excavación de las Ruinas de Khintaset</esES>
+		<ruRU>Руины Кинтасета - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Lar'donir Digsite</Original>
+		<Location>5643.688 -3010.627 1560.711</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ruins of Lar'donir Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Lar'donir</deDE>
+		<frFR>Site de fouilles des ruines de Lar'donir</frFR>
+		<esES>Excavación de las Ruinas de Lar'donir</esES>
+		<ruRU>Руины Лар'донира - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Ordil'Aran</Original>
+		<Location>3474.111 36.2388 3.626959</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ruins of Ordil'Aran</enUS>
+		<deDE>Ruinen von Ordil'Aran</deDE>
+		<frFR>Ruines d'Ordil'Aran</frFR>
+		<esES>Las Ruinas de Ordil'Aran</esES>
+		<ruRU>Руины Ордил'Арана</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Stardust</Original>
+		<Location>2099.724 -234.446 97.33332</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Ruins of Stardust</enUS>
+		<deDE>Sternenstaubruinen</deDE>
+		<frFR>Ruines de Chimétoile</frFR>
+		<esES>Las Ruinas del Polvo Estelar</esES>
+		<ruRU>Руины Звездной Пыли</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Sahket Wastes Digsite</Original>
+		<Location>-8891.929 -692.3371 167.8135</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Sahket Wastes Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Sahketwüste</deDE>
+		<frFR>Site de fouilles du désert de Sahket</frFR>
+		<esES>Excavación de las Ruinas de Sahket</esES>
+		<ruRU>Пустоши Сакет - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Sanctuary of Malorne Digsite</Original>
+		<Location>4452.329 -2071.827 1206.766</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Sanctuary of Malorne Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Heiligtums von Malorne</deDE>
+		<frFR>Site de fouilles du sanctuaire de Malorne</frFR>
+		<esES>Excavación del Santuario de Malorne</esES>
+		<ruRU>Святилище Малорна - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Sargeron Digsite</Original>
+		<Location>-213.4881 813.0001 90.68999</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Sargeron Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Sargeron</deDE>
+		<frFR>Site de fouilles de Sargeron</frFR>
+		<esES>Excavación de Sargeron</esES>
+		<ruRU>Саргерон - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Scorched Plain Digsite</Original>
+		<Location>4555.749 -3391.929 1010.493</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Scorched Plain Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Verbrannten Ebene</deDE>
+		<frFR>Site de fouilles de la plaine Incendiée</frFR>
+		<esES>Excavación de La Llanura Agostada</esES>
+		<ruRU>Выжженная равнина - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Screaming Reaches Fossil Field</Original>
+		<Location>-6723.77 -793.2736 -271.1159</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Screaming Reaches Fossil Field</enUS>
+		<deDE>Fossilienfelder der Schreienden Weiten</deDE>
+		<frFR>Champ de fossile des confins Hurlants</frFR>
+		<esES>Campo de fósiles de la Cuenca de los Gritos</esES>
+		<ruRU>Вопящие плёсы - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Shrine of Goldrinn Digsite</Original>
+		<Location>5294.044 -2192.492 1258.962</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Shrine of Goldrinn Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Schrein von Goldrinn</deDE>
+		<frFR>Site de fouilles du sanctuaire de Goldrinn</frFR>
+		<esES>Excavación del Santuario de Goldrinn</esES>
+		<ruRU>Святилище Голдринна - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Schnottz's Landing</Original>
+		<Location>-10644.05 1212.356 22.58608</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Schnottz's Landing</enUS>
+		<deDE>Grabungsstätte bei Schnottz' Landeplatz</deDE>
+		<frFR>Accostage de Schnottz</frFR>
+		<esES>Embarcadero de Schnottz</esES>
+		<ruRU>Лагерь Шнотца</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Slitherblade Shore Digsite</Original>
+		<Location>-418.9307 2879.517 39.74901</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Slitherblade Shore Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Strand der Zackenkämme</deDE>
+		<frFR>Site de fouilles du rivage des Ondulames</frFR>
+		<esES>Excavación de la Costa Filozante</esES>
+		<ruRU>Берег Скользящего Плавника - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Solarsal Digsite</Original>
+		<Location>-4932.569 3588.231 10.80799</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Solarsal Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Solarsal</deDE>
+		<frFR>Site de fouilles de Solarsal</frFR>
+		<esES>Excavación de Solarsal</esES>
+		<ruRU>Соларсаль - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>South Isildien Digsite</Original>
+		<Location>-5511.035 1325.761 21.55968</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>South Isildien Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Südisildien</deDE>
+		<frFR>Site de fouilles d'Isildien sud</frFR>
+		<esES>Excavación de Isildien sur</esES>
+		<ruRU>Южный Исильдиэн - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Southmoon Ruins Digsite</Original>
+		<Location>-9249.391 -3016.533 16.11079</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Southmoon Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Südmondruinen</deDE>
+		<frFR>Site de fouilles des ruines de Sudelune</frFR>
+		<esES>Excavación de las Ruinas de Lunasur</esES>
+		<ruRU>Руины Южной Луны - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Southwind Village Digsite</Original>
+		<Location>-7199.2 371.6715 25.43277</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Southwind Village Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Südwindpostens</deDE>
+		<frFR>Site de fouilles de Sudevent</frFR>
+		<esES>Excavación de la Aldea del Viento del Sur</esES>
+		<ruRU>Деревня Южного Ветра - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Steps of Fate Digsite</Original>
+		<Location>-10116.63 -2118.482 42.43747</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Steps of Fate Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Schicksalsstiege</deDE>
+		<frFR>Site de fouilles des marches du Destin</frFR>
+		<esES>Excavación de Los Pasos del Sino</esES>
+		<ruRU>Шаги Судьбы - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Stonetalon Peak</Original>
+		<Location>2457.216 1476.019 427.2088</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Stonetalon Peak</enUS>
+		<deDE>Steinkrallengipfel</deDE>
+		<frFR>Pic des Serres-Rocheuses</frFR>
+		<esES>Cima del Espolón</esES>
+		<ruRU>Пик Каменного Когтя</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Temple of Uldum Digsite</Original>
+		<Location>-9226.958 328.1091 261.6585</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Temple of Uldum Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Tempels von Uldum</deDE>
+		<frFR>Site de fouilles du temple d'Uldum</frFR>
+		<esES>Excavación del Templo de Uldum</esES>
+		<ruRU>Храм Ульдума - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Terror Run Fossil Field</Original>
+		<Location>-7862.5 -641.8158 -260.5366</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Terror Run Fossil Field</enUS>
+		<deDE>Fossilienfeld der Terrorflucht</deDE>
+		<frFR>Champ de fossiles des coteaux de la Terreur</frFR>
+		<esES>Campo de fósiles del Camino del Terror</esES>
+		<ruRU>Путь Ужаса - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Tombs of the Precursors Digsite</Original>
+		<Location>-9893.323 -2182.735 31.19889</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Tombs of the Precursors Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Gräber der Wegbereiter</deDE>
+		<frFR>Site de fouilles des tombes des Précurseurs</frFR>
+		<esES>Excavación de las Tumbas de los Precursores</esES>
+		<ruRU>Гробницы Предтеч - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Unearthed Grounds</Original>
+		<Location>351.5544 -658.2257 23.80297</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Unearthed Grounds</enUS>
+		<deDE>Die Grabstätte</deDE>
+		<frFR>Terres Exhumées</frFR>
+		<esES>Campos Desenterrados</esES>
+		<ruRU>Место раскопок</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Upper Lakkari Tar Pits</Original>
+		<Location>-6371.353 -1259.041 -215.3554</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Upper Lakkari Tar Pits</enUS>
+		<deDE>Obere Teergruben von Lakkari</deDE>
+		<frFR>Fosses de goudron de Lakkari supérieures</frFR>
+		<esES>Fosas de Alquitrán superiores</esES>
+		<ruRU>Верхние Смоляные ямы Лаккари</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Valley of Bones</Original>
+		<Location>-2285.829 1329.868 63.58916</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Valley of Bones</enUS>
+		<deDE>Tal der Knochen</deDE>
+		<frFR>Vallée des Ossements</frFR>
+		<esES>Valle de los Huesos</esES>
+		<ruRU>Долина Костей</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Wyrmbog Fossil Field</Original>
+		<Location>-4593.874 -3536.603 36.90284</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Wyrmbog Fossil Field</enUS>
+		<deDE>Fossilienfeld des Drachensumpfes</deDE>
+		<frFR>Champ de fossiles de Tourbière du Ver</frFR>
+		<esES>Campo de fósiles de Ciénaga de Fuego</esES>
+		<ruRU>Драконьи топи - окаменелости</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Zoram Strand Digsite</Original>
+		<Location>3922.877 861.5485 1.052835</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Zoram Strand Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Zoramstrand</deDE>
+		<frFR>Site de fouilles de la grève de Zoram</frFR>
+		<esES>Excavación de La Ensenada de Zoram</esES>
+		<ruRU>Зорамское взморье - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Zul'Farrak Digsite</Original>
+		<Location>-6850.292 -2881.955 9.604273</Location>
+		<Continent>Kalimdor</Continent>
+		<enUS>Zul'Farrak Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Zul'Farrak</deDE>
+		<frFR>Site de fouilles de Zul'Farrak</frFR>
+		<esES>Excavación de Zul'Farrak</esES>
+		<ruRU>Зул'Фаррак - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ancestral Grounds Digsite</Original>
+		<Location>-2201.839 8849.336 22.36025</Location>
+		<Continent>Outland</Continent>
+		<enUS>Ancestral Grounds Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Ahnengrunds</deDE>
+		<frFR>Site de fouilles des terres Ancestrales</frFR>
+		<esES>Excavación de las Tierras Ancestrales</esES>
+		<ruRU>Земли Предков - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Arklon Ruins Digsite</Original>
+		<Location>2793.944 3212.78 147.147</Location>
+		<Continent>Outland</Continent>
+		<enUS>Arklon Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Arklon</deDE>
+		<frFR>Site de fouilles des ruines Arklon</frFR>
+		<esES>Excavación de las Ruinas Arklon</esES>
+		<ruRU>Руины Арклон - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Bleeding Hollow Ruins Digsite</Original>
+		<Location>-3287.931 6005.664 -1.415015</Location>
+		<Continent>Outland</Continent>
+		<enUS>Bleeding Hollow Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen des Blutenden Auges</deDE>
+		<frFR>Site de fouilles des ruines de l'Orbite sanglante</frFR>
+		<esES>Excavación de las Ruinas Foso Sangrante</esES>
+		<ruRU>Руины Кровавой Глазницы - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Boha'mu Ruins Digsite</Original>
+		<Location>-353.8738 7257.029 49.54452</Location>
+		<Continent>Outland</Continent>
+		<enUS>Boha'mu Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Boha'mu</deDE>
+		<frFR>Site de fouilles des ruines de Boha'mu</frFR>
+		<esES>Excavación de las Ruinas Boha'mu</esES>
+		<ruRU>Руины Боха'му - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Bone Wastes Digsite</Original>
+		<Location>-3265.368 4455.186 -22.46346</Location>
+		<Continent>Outland</Continent>
+		<enUS>Bone Wastes Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Knochenwüste</deDE>
+		<frFR>Site de fouilles du désert des Ossements</frFR>
+		<esES>Excavación de El Vertedero de Huesos</esES>
+		<ruRU>Костяные пустоши - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Bonechewer Ruins Digsite</Original>
+		<Location>-2966.288 3556.107 -6.547024</Location>
+		<Continent>Outland</Continent>
+		<enUS>Bonechewer Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen der Knochenmalmer</deDE>
+		<frFR>Site de fouilles des ruines Mâche-les-os</frFR>
+		<esES>Excavación de las Ruinas Mascahuesos</esES>
+		<ruRU>Руины Костеглодов - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Burning Blade Digsite</Original>
+		<Location>-2549.138 6269.078 15.09177</Location>
+		<Continent>Outland</Continent>
+		<enUS>Burning Blade Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Brennenden Klinge</deDE>
+		<frFR>Site de fouilles de la Lame ardente</frFR>
+		<esES>Excavación de las Ruinas Filo Ardiente</esES>
+		<ruRU>Пылающий Клинок - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Coilskar Point Digsite</Original>
+		<Location>-3013.541 1733.374 74.96371</Location>
+		<Continent>Outland</Continent>
+		<enUS>Coilskar Point Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Echsennarbe</deDE>
+		<frFR>Site de fouilles de la halte de Glissentaille</frFR>
+		<esES>Excavación del Alto Cicatriz Espiral</esES>
+		<ruRU>Лагерь Змеиных Колец - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Dragonmaw Fortress</Original>
+		<Location>-4244.426 397.2457 69.28689</Location>
+		<Continent>Outland</Continent>
+		<enUS>Dragonmaw Fortress</enUS>
+		<deDE>Festung des Drachenmals</deDE>
+		<frFR>Forteresse Gueule-de-dragon</frFR>
+		<esES>Fortaleza Faucedraco</esES>
+		<ruRU>Крепость Драконьей Пасти</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>East Auchindoun Digsite</Original>
+		<Location>-3338.817 4824.295 -101.2076</Location>
+		<Continent>Outland</Continent>
+		<enUS>East Auchindoun Digsite</enUS>
+		<deDE>Östliche Ausgrabungsstätte von Auchindoun</deDE>
+		<frFR>Site de fouilles d'Auchindoun est</frFR>
+		<esES>Excavación de Auchindoun oriental</esES>
+		<ruRU>Восточный Аукиндон - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Eclipse Point Digsite</Original>
+		<Location>-4411.996 1711.301 157.473</Location>
+		<Continent>Outland</Continent>
+		<enUS>Eclipse Point Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Stätte der Mondfinsternis</deDE>
+		<frFR>Site de fouilles de la halte de l'Éclipse</frFR>
+		<esES>Excavación de Punta Eclipse</esES>
+		<ruRU>Лагерь Затмения - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Gor'gaz Outpost Digsite</Original>
+		<Location>-1141.56 3236.541 67.25626</Location>
+		<Continent>Outland</Continent>
+		<enUS>Gor'gaz Outpost Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Außenpostens von Gor'gaz</deDE>
+		<frFR>Site de fouilles de l'avant-poste de Gor'gaz</frFR>
+		<esES>Excavación de la Avanzada Gor'gaz</esES>
+		<ruRU>Форт Гор'газ - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Grangol'var Village Digsite</Original>
+		<Location>-2461.81 4881.326 35.72766</Location>
+		<Continent>Outland</Continent>
+		<enUS>Grangol'var Village Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Grangol'var</deDE>
+		<frFR>Site de fouilles de Grangol'var</frFR>
+		<esES>Excavación del Poblado Grangol'var</esES>
+		<ruRU>Деревня Грангол'вар - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Halaa Digsite</Original>
+		<Location>-1580.529 7955.495 -22.20881</Location>
+		<Continent>Outland</Continent>
+		<enUS>Halaa Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Haala</deDE>
+		<frFR>Site de fouilles d'Halaa</frFR>
+		<esES>Excavación de Halaa</esES>
+		<ruRU>Халаа - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Hellfire Basin Digsite</Original>
+		<Location>-314.1986 3264.323 -79.66103</Location>
+		<Continent>Outland</Continent>
+		<enUS>Hellfire Basin Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Höllenfeuerbecken</deDE>
+		<frFR>Site de fouilles du bassin des Flammes infernales</frFR>
+		<esES>Excavación de la Cuenca del Fuego Infernal</esES>
+		<ruRU>Яма Адского Пламени - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Hellfire Citadel Digsite</Original>
+		<Location>-332.0606 2993.702 -66.21924</Location>
+		<Continent>Outland</Continent>
+		<enUS>Hellfire Citadel Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Höllenfeuerzitadelle</deDE>
+		<frFR>Site de fouilles de la citadelle Flammes infernales</frFR>
+		<esES>Excavación de la Ciudadela del Fuego Infernal</esES>
+		<ruRU>Цитадель Адского Пламени - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Illidari Point Digsite</Original>
+		<Location>-3864.061 2581.593 92.74734</Location>
+		<Continent>Outland</Continent>
+		<enUS>Illidari Point Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Stätte der Illidari</deDE>
+		<frFR>Site de fouilles de la halte Illidari</frFR>
+		<esES>Excavación del Alto Illidari</esES>
+		<ruRU>Аванпост Иллидари - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Laughing Skull Digsite</Original>
+		<Location>-749.5594 7906.094 56.76114</Location>
+		<Continent>Outland</Continent>
+		<enUS>Laughing Skull Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Lachenden Schädels</deDE>
+		<frFR>Site de fouilles des ruines du Crâne ricanant</frFR>
+		<esES>Excavación de las Ruinas Riecráneos</esES>
+		<ruRU>Веселый Череп - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Baa'ri Digsite</Original>
+		<Location>-3244.074 1080.767 61.12976</Location>
+		<Continent>Outland</Continent>
+		<enUS>Ruins of Baa'ri Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Baa'ri</deDE>
+		<frFR>Site de fouilles des ruines de Baa'ri</frFR>
+		<esES>Excavación de las Ruinas de Baa'ri</esES>
+		<ruRU>Руины Баа'ри - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Enkaat Digsite</Original>
+		<Location>3449.958 3718.665 144.7913</Location>
+		<Continent>Outland</Continent>
+		<enUS>Ruins of Enkaat Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Enkaat</deDE>
+		<frFR>Site de fouilles des ruines d'Enkaat</frFR>
+		<esES>Excavación de las Ruinas de Enkaat</esES>
+		<ruRU>Руины Энкаата - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Farahlon Digsite</Original>
+		<Location>4699.248 2514.115 235.1614</Location>
+		<Continent>Outland</Continent>
+		<enUS>Ruins of Farahlon Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Farahlon</deDE>
+		<frFR>Site de fouilles des ruines de Farahlon</frFR>
+		<esES>Excavación de las Ruinas de Farahlon</esES>
+		<ruRU>Руины Фаралона - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Sha'naar Digsite</Original>
+		<Location>-602.1328 4770.171 39.4446</Location>
+		<Continent>Outland</Continent>
+		<enUS>Sha'naar Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Sha'naar</deDE>
+		<frFR>Site de fouilles de Sha'naar</frFR>
+		<esES>Excavación de Sha'naar</esES>
+		<ruRU>Ша'наар - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Sunspring Post Digsite</Original>
+		<Location>-1473.291 8575.316 7.260124</Location>
+		<Continent>Outland</Continent>
+		<enUS>Sunspring Post Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Sonnenwindpostens</deDE>
+		<frFR>Site de fouilles du poste de Berceau-de-l'Été</frFR>
+		<esES>Excavación del Puesto Primasol</esES>
+		<ruRU>Застава Солнечного Источника - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Tuurem Digsite</Original>
+		<Location>-2088.292 4235.952 7.337552</Location>
+		<Continent>Outland</Continent>
+		<enUS>Tuurem Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Tuurem</deDE>
+		<frFR>Site de fouilles de Tuurem</frFR>
+		<esES>Excavación de Tuurem</esES>
+		<ruRU>Туурем - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Twin Spire Ruins Digsite</Original>
+		<Location>219.4878 7092.908 35.22808</Location>
+		<Continent>Outland</Continent>
+		<enUS>Twin Spire Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen der Zwillingsspitze</deDE>
+		<frFR>Site de fouilles des ruines des Flèches jumelles</frFR>
+		<esES>Excavación de las Ruinas de las Agujas Gemelas</esES>
+		<ruRU>Руины Двух Башен - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Warden's Cage Digsite</Original>
+		<Location>-3694.948 1032.973 68.75468</Location>
+		<Continent>Outland</Continent>
+		<enUS>Warden's Cage Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Kerkers des Wächters</deDE>
+		<frFR>Site de fouilles de la Cage de la gardienne</frFR>
+		<esES>Excavación de la Jaula de la Guardiana</esES>
+		<ruRU>Клеть Стражницы - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>West Auchindoun Digsite</Original>
+		<Location>-3395.086 5049.244 -101.3946</Location>
+		<Continent>Outland</Continent>
+		<enUS>West Auchindoun Digsite</enUS>
+		<deDE>Westliche Ausgrabungsstätte von Auchindoun</deDE>
+		<frFR>Site de fouilles d'Auchindoun ouest</frFR>
+		<esES>Excavación de Auchindoun occidental</esES>
+		<ruRU>Западный Аукиндон - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Zeth'Gor Digsite</Original>
+		<Location>-1100.126 2048.269 67.01131</Location>
+		<Continent>Outland</Continent>
+		<enUS>Zeth'Gor Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Zeth'Gor</deDE>
+		<frFR>Site de fouilles de Zeth'Gor</frFR>
+		<esES>Excavación de Zeth'Gor</esES>
+		<ruRU>Зет'Гор - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Altar of Quetz'lun Digsite</Original>
+		<Location>5607.021 -4194.972 367.0043</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Altar of Quetz'lun Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Altar von Quetz'lun</deDE>
+		<frFR>Site de fouilles de l'autel de Quetz'lun</frFR>
+		<esES>Excavación del Altar de Quetz'lun</esES>
+		<ruRU>Алтарь Кетц'лун - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Altar of Sseratus Digsite</Original>
+		<Location>6116.725 -2610.186 293.1271</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Altar of Sseratus Digsite</enUS>
+		<deDE>Ausgrabungsstätte am Altar von Sseratus</deDE>
+		<frFR>Site de fouilles de l'autel de Sseratus</frFR>
+		<esES>Excavación del Altar de Sseratus</esES>
+		<ruRU>Алтарь Шшератуса - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Baleheim Digsite</Original>
+		<Location>1543.782 -5312.219 199.3029</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Baleheim Digsite</enUS>
+		<deDE>Ausgrabungsstätte Quälheim</deDE>
+		<frFR>Site de fouilles de Torvheim</frFR>
+		<esES>Excavación de Baleheim</esES>
+		<ruRU>Гибльхейм - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Brunnhildar Village Digsite</Original>
+		<Location>6975.577 -1601.383 820.2603</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Brunnhildar Village Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Brunnhildar</deDE>
+		<frFR>Site de fouilles de Brunnhildar</frFR>
+		<esES>Excavación del Poblado Brunnhildar</esES>
+		<ruRU>Деревня Бруннхильдар - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Drakil'Jin Ruins Digsite</Original>
+		<Location>4696.573 -4752.031 52.89956</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Drakil'Jin Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Drakil'Jin</deDE>
+		<frFR>Site de fouilles des ruines de Drakil'Jin</frFR>
+		<esES>Excavación de las Ruinas de Drakil'Jin</esES>
+		<ruRU>Руины Дракил'джин - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>En'kilah Digsite</Original>
+		<Location>4044.014 3553.022 105.9902</Location>
+		<Continent>Northrend</Continent>
+		<enUS>En'kilah Digsite</enUS>
+		<deDE>Ausgrabungsstätte von En'kilah</deDE>
+		<frFR>Site de fouilles d'En'kilah</frFR>
+		<esES>Excavación de En'kilah</esES>
+		<ruRU>Эн'кила - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Gjalerbron Digsite</Original>
+		<Location>2727.819 -3451.493 224.1555</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Gjalerbron Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Gjalerbron</deDE>
+		<frFR>Site de fouilles de Gjalerbron</frFR>
+		<esES>Excavación de Gjalerbron</esES>
+		<ruRU>Гьялерброн - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Grimesilt Digsite</Original>
+		<Continent>EK</Continent>
+		<enUS>Grimesilt Digsite</enUS>
+		<deDE>Grimmsilts Ausgrabungsstätte</deDE>
+		<frFR>Site de fouilles de Crasseboue</frFR>
+		<esES>Excavación de Limugre</esES>
+		<ruRU>Гримсилт - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Halgrind Digsite</Original>
+		<Location>967.8068 -4437.792 152.1131</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Halgrind Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Halgrind</deDE>
+		<frFR>Site de fouilles de Halegrince</frFR>
+		<esES>Excavación de Haltorboll</esES>
+		<ruRU>Халгринд - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Jotunheim Digsite</Original>
+		<Location>7088.906 4076.955 535.3271</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Jotunheim Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Jotunheim</deDE>
+		<frFR>Site de fouilles de Jotunheim</frFR>
+		<esES>Excavación de Jotunheim</esES>
+		<ruRU>Йотунхейм - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Kolramas Digsite</Original>
+		<Location>4993.941 -3498.965 287.5319</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Kolramas Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Kolramas</deDE>
+		<frFR>Site de fouilles de Kolramas</frFR>
+		<esES>Excavación de Kolramas</esES>
+		<ruRU>Колрамас - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Moonrest Gardens Digsite</Original>
+		<Location>3241.16 2484.194 38.31104</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Moonrest Gardens Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Mondruhgärten</deDE>
+		<frFR>Site de fouilles des jardins de Repos-de-Lune</frFR>
+		<esES>Excavación de los Jardines Reposo Lunar</esES>
+		<ruRU>Сады Лунного Покоя - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Nifflevar Digsite</Original>
+		<Location>939.2187 -5525.642 187.4289</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Nifflevar Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Nifflevar</deDE>
+		<frFR>Site de fouilles de Nifflevar</frFR>
+		<esES>Excavación de Nifflevar</esES>
+		<ruRU>Ниффлвар - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Njorndar Village Digsite</Original>
+		<Location>7731.744 3675.261 653.0356</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Njorndar Village Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Njorndar</deDE>
+		<frFR>Site de fouilles de Njorndar</frFR>
+		<esES>Excavación del Poblado Njorndar</esES>
+		<ruRU>Деревня Ньорндар - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Pit of Fiends Digsite</Original>
+		<Location>7115.007 595.9893 498.0419</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Pit of Fiends Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Schreckensgrube</deDE>
+		<frFR>Site de fouilles de la fosse aux Démons</frFR>
+		<esES>Pit of Fiends Digsite</esES>
+		<ruRU>Яма чудовищ - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Pit of Narjun Digsite</Original>
+		<Location>3630.448 2158.53 78.80432</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Pit of Narjun Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Grube von Narjun</deDE>
+		<frFR>Site de fouilles de la fosse de Narjun</frFR>
+		<esES>Excavación de El Foso de Narjun</esES>
+		<ruRU>Провал Наржуна - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Riplash Ruins Digsite</Original>
+		<Location>1369.021 5920.831 4.53678</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Riplash Ruins Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen der Peitschennarbe</deDE>
+		<frFR>Site de fouilles des ruines des Courcinglants</frFR>
+		<esES>Excavación de las Ruinas Tralladón</esES>
+		<ruRU>Руины Терзающего Бича - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ruins of Shandaral Digsite</Original>
+		<Location>5372.586 -814.7572 161.8752</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Ruins of Shandaral Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Ruinen von Shandaral</deDE>
+		<frFR>Site de fouilles des ruines de Shandaral</frFR>
+		<esES>Excavación de las Ruinas de Shandaral</esES>
+		<ruRU>Руины Шандарала - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Sands of Nasam</Original>
+		<Location>2454.51 5420.366 25.32059</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Sands of Nasam</enUS>
+		<deDE>Sande von Nasam</deDE>
+		<frFR>Sables de Nasam</frFR>
+		<esES>Arenas del Nasam</esES>
+		<ruRU>Пески Назама</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Scourgeholme Digsite</Original>
+		<Location>6766.626 566.0714 426.7882</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Scourgeholme Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Geißelholme</deDE>
+		<frFR>Site de fouilles de Fléaulme</frFR>
+		<esES>Excavación de la Ciudad de la Plaga</esES>
+		<ruRU>Плетхольм - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Shield Hill Digsite</Original>
+		<Location>-78.96708 -4994.988 311.4542</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Shield Hill Digsite</enUS>
+		<deDE>Ausgrabungsstätte des Schildhügels</deDE>
+		<frFR>Site de fouilles de la colline du Bouclier</frFR>
+		<esES>Excavación de la Colina Escudo</esES>
+		<ruRU>Заградительный холм - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Sifreldar Village Digsite</Original>
+		<Location>6735.51 -1004.719 769.8488</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Sifreldar Village Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Sifreldar</deDE>
+		<frFR>Site de fouilles de Sifreldar</frFR>
+		<esES>Excavación del Poblado Sifreldar</esES>
+		<ruRU>Деревня Сифрельдар - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Skorn Digsite</Original>
+		<Location>1956.772 -4160.212 214.1566</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Skorn Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Skorn</deDE>
+		<frFR>Site de fouilles de Skorn</frFR>
+		<esES>Excavación de Skorn</esES>
+		<ruRU>Скорн - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Talramas Digsite</Original>
+		<Location>4335.353 4445.975 72.28926</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Talramas Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Talramas</deDE>
+		<frFR>Site de fouilles de Talramas</frFR>
+		<esES>Excavación de Talramas</esES>
+		<ruRU>Талрамас - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Valkyrion Digsite</Original>
+		<Location>7307.539 83.18517 778.2981</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Valkyrion Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Valkyrion</deDE>
+		<frFR>Site de fouilles de Valkyrion</frFR>
+		<esES>Excavación de Valkyrion</esES>
+		<ruRU>Валькирион - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Violet Stand Digsite</Original>
+		<Location>5683.74 999.4753 174.4836</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Violet Stand Digsite</enUS>
+		<deDE>Ausgrabungsstätte der Violetten Wacht</deDE>
+		<frFR>Site de fouilles du séjour Pourpre</frFR>
+		<esES>Excavación de El Confín Violeta</esES>
+		<ruRU>Аметистовая застава - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Voldrune Digsite</Original>
+		<Location>2914.935 -2665.885 88.55244</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Voldrune Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Voldrune</deDE>
+		<frFR>Site de fouilles de Voldrune</frFR>
+		<esES>Excavación de Runavold</esES>
+		<ruRU>Волдрун - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Wyrmskull Digsite</Original>
+		<Location>994.1431 -4972.97 5.845667</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Wyrmskull Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Wyrmskol</deDE>
+		<frFR>Site de fouilles de Crâne-du-ver</frFR>
+		<esES>Excavación de Calavermis</esES>
+		<ruRU>Драконий Череп - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Ymirheim Digsite</Original>
+		<Location>7213.305 1970.443 570.9301</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Ymirheim Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Ymirheim</deDE>
+		<frFR>Site de fouilles d'Ymirheim</frFR>
+		<esES>Excavación de Ymirheim</esES>
+		<ruRU>Имирхейм - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Zim'Rhuk Digsite</Original>
+		<Location>6248.38 -3591.393 383.7299</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Zim'Rhuk Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Zim'Rhuk</deDE>
+		<frFR>Site de fouilles de Zim'Rhuk</frFR>
+		<esES>Excavación de Zim'Rhuk</esES>
+		<ruRU>Зим'Рук - раскопки</ruRU>
+	</Digsite>
+	<Digsite>
+		<Original>Zol'Heb Digsite</Original>
+		<Location>6368.831 -4556.429 453.2668</Location>
+		<Continent>Northrend</Continent>
+		<enUS>Zol'Heb Digsite</enUS>
+		<deDE>Ausgrabungsstätte von Zol'Heb</deDE>
+		<frFR>Site de fouilles de Zol'Heb</frFR>
+		<esES>Excavación de Zol'Heb</esES>
+		<ruRU>Зол'Хеб - раскопки</ruRU>
+	</Digsite>
+  	<Digsite>
+   		<Original>South Orchard Digsite</Original>
+    		<Location>246.4865 -1666.574 90.29037</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>South Orchard Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Old Village Digsite</Original>
+    		<Location>1869.342 413.1786 494.5599</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Old Village Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Gate to Golden Valley Digsite</Original>
+    		<Location>1813.589 1361.876 480.7229</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Gate to Golden Valley Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Destroyed Village Digsite</Original>
+    		<Location>3294.927 341.9795 457.8321</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Destroyed Village Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Sra' thik Digsite</Original>
+    		<Location>2487.146 4615.944 156.963</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Sra' thik Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Venomous Ledge Digsite</Original>
+    		<Location>-106.5421 4698.838 68.51883</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Venomous Ledge Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>The Briny Much Digsite</Original>
+    		<Location>-1103.332 4046.379 6.36966</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>The Briny Much Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Mistfall Village Digsite</Original>
+    		<Location>764.5254 1522.447 384.9625</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Mistfall Village Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>North Ruins of Dojan Digsite</Original>
+    		<Location>-1115.91 330.1158 36.74552</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>North Ruins of Dojan Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Thunderwood Digsite</Original>
+    		<Location>165.6815 -1351.194 67.86864</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Thunderwood Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Orchard Digsite</Original>
+    		<Location>1424.039 -2477.063 148.6076</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Orchard Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>South Ruins of Dojan Digsite</Original>
+    		<Location>-1299.577 387.7532 43.98588</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>South Ruins of Dojan Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Torjari Pit Digsite</Original>
+    		<Location>-913.1033 1930.997 159.6853</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Torjari Pit Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Fire Camp Osul Digsite</Original>
+    		<Location>2936.564 3341.437 415.967</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Fire Camp Osul Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Ikz'ka Ridge Digsite</Original>
+    		<Location>3021.802 6064.5 82.2151</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Ikz'ka Ridge Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>The Spring Road Digsite</Original>
+    		<Location>935.4409 -157.6971 431.5529</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>The Spring Road Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Valley of Kings Digsite</Original>
+    		<Location>3634.887 1298.629 748.5469</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Valley of Kings Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>East Snow Covered Hills Digsite</Original>
+    		<Location>3398.445 2373.967 822.9006</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>East Snow Covered Hills Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Writhingwood Digsite</Original>
+    		<Location>-173.73 2572.117 160.0428</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Writhingwood Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Paoquan Hollow Digsite</Original>
+    		<Location>216.6784 2066.763 161.2234</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Paoquan Hollow Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>North Fruited Fields Digsite</Original>
+    		<Location>85.37092 1298.476 217.8542</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>North Fruited Fields Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Sik'vess Digsite</Original>
+    		<Location>1385.083 4346.314 214.1468</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Sik'vess Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Hatred's Vice Digsite</Original>
+    		<Location>1933.403 2525.622 426.1321</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Hatred's Vice Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>The Underbough Digsite</Original>
+    		<Location>2429.658 3635.793 247.9884</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>The Underbough Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Grumblepaw Ranch Digsite</Original>
+    		<Location>2686.912 472.1689 517.0954</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>Grumblepaw Ranch Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>The Arboretum Digsite</Original>
+    		<Location>1583.339 -2228.226 156.1262</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>The Arboretum Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Zhu Province Digsite</Original>
+    		<Location>-442.9786 -572.3281 102.816</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>The Arboretum Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>South Ruins of Guo-Lai Digsite</Original>
+    		<Location>1261.029 1916.059 349.5169</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>South Ruins of Guo-Lai Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>East Sra'vess Digsite</Original>
+    		<Location>2727.486 5648.258 93.42219</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>South Ruins of Guo-Lai Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>West Sik'vess Digsite</Original>
+    		<Location>1333.846 4695.068 196.8214</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>South Ruins of Guo-Lai Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>Kor'vess Digsite</Original>
+    		<Location>917.2745 3668.449 263.2774</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>South Ruins of Guo-Lai Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>North Sik'vess Digsite</Original>
+    		<Location>1467.057 4590.912 245.5991</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>South Ruins of Guo-Lai Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>The Feeding Pits Digsite</Original>
+    		<Location>2399.236 5972.17 54.3863</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>South Ruins of Guo-Lai Digsite</enUS>
+  	</Digsite>
+  	<Digsite>
+   		<Original>West Sra'vess Digsite</Original>
+    		<Location>2600.04 6013.468 72.85795</Location>
+		<Continent>Pandaria</Continent>
+		<enUS>South Ruins of Guo-Lai Digsite</enUS>
+  	</Digsite>
+</Digsites>

@@ -1,0 +1,4 @@
+[8:04:36 AM] Could not start the updating program, cannot auto update: System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at LazyEvo.Forms.Helpers.CheckUpdate.CheckForUpdate() in c:\Users\Public\Documents\Release - Copy\Lazy Evolution\Forms\Helpers\CheckUpdate.cs:line 49

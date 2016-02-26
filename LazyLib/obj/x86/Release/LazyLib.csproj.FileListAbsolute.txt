@@ -1,0 +1,38 @@
+C:\Users\Warrior\Documents\Release\LazyLib\obj\x86\Release\LazyLib.LazyRadar.RadarForm.resources
+C:\Users\Warrior\Documents\Release\LazyLib\obj\x86\Release\LazyLib.Resource.resources
+C:\Users\Warrior\Documents\Release\LazyLib\obj\x86\Release\LazyLib.Dialogs.UnhandledExceptionDlg.UnhandledExDlgForm.resources
+C:\Users\Warrior\Documents\Release\LazyLib\obj\x86\Release\LazyLib.csproj.GenerateResource.Cache
+C:\Users\Warrior\Documents\Release\LazyLib\bin\x86\Release\LazyLib.dll.config
+C:\Users\Warrior\Documents\Release\LazyLib\bin\x86\Release\LazyLib.dll
+C:\Users\Warrior\Documents\Release\LazyLib\bin\x86\Release\DevComponents.DotNetBar2.dll
+C:\Users\Warrior\Documents\Release\LazyLib\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Warrior\Documents\Release\LazyLib\obj\x86\Release\LazyLib.dll
+C:\Users\Warrior\Documents\Release\LazyLib\obj\x86\Release\LazyLib.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Documents\Release\LazyLib\bin\x86\Release\LazyLib.dll.config
+C:\Users\Charles\Documents\Release\LazyLib\bin\x86\Release\LazyLib.dll
+C:\Users\Charles\Documents\Release\LazyLib\bin\x86\Release\DevComponents.DotNetBar2.dll
+C:\Users\Charles\Documents\Release\LazyLib\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Charles\Documents\Release\LazyLib\obj\x86\Release\LazyLib.LazyRadar.RadarForm.resources
+C:\Users\Charles\Documents\Release\LazyLib\obj\x86\Release\LazyLib.Resource.resources
+C:\Users\Charles\Documents\Release\LazyLib\obj\x86\Release\LazyLib.Dialogs.UnhandledExceptionDlg.UnhandledExDlgForm.resources
+C:\Users\Charles\Documents\Release\LazyLib\obj\x86\Release\LazyLib.csproj.GenerateResource.Cache
+C:\Users\Charles\Documents\Release\LazyLib\obj\x86\Release\LazyLib.dll
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Release\LazyLib.LazyRadar.RadarForm.resources
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Release\LazyLib.Resource.resources
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Release\LazyLib.Dialogs.UnhandledExceptionDlg.UnhandledExDlgForm.resources
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Release\LazyLib.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Release\LazyLib.dll
+C:\Users\Public\Documents\Release\LazyLib\bin\x86\Release\LazyLib.dll.config
+C:\Users\Public\Documents\Release\LazyLib\bin\x86\Release\LazyLib.dll
+C:\Users\Public\Documents\Release\LazyLib\bin\x86\Release\DevComponents.DotNetBar2.dll
+C:\Users\Public\Documents\Release\LazyLib\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Release\LazyLib.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Release - Copy\LazyLib\bin\x86\Release\LazyLib.dll.config
+C:\Users\Public\Documents\Release - Copy\LazyLib\bin\x86\Release\LazyLib.dll
+C:\Users\Public\Documents\Release - Copy\LazyLib\bin\x86\Release\DevComponents.DotNetBar2.dll
+C:\Users\Public\Documents\Release - Copy\LazyLib\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Public\Documents\Release - Copy\LazyLib\obj\x86\Release\LazyLib.LazyRadar.RadarForm.resources
+C:\Users\Public\Documents\Release - Copy\LazyLib\obj\x86\Release\LazyLib.Resource.resources
+C:\Users\Public\Documents\Release - Copy\LazyLib\obj\x86\Release\LazyLib.Dialogs.UnhandledExceptionDlg.UnhandledExDlgForm.resources
+C:\Users\Public\Documents\Release - Copy\LazyLib\obj\x86\Release\LazyLib.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Release - Copy\LazyLib\obj\x86\Release\LazyLib.dll

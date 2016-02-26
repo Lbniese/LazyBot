@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<LazyProfile>
+  <PathName>Ruins of Arkkoran.xml</PathName>
+  <Vendors>
+  </Vendors>
+  <SubProfile>
+    <Name>Unnamed</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>99</MaxLevel>
+    <MobMinLevel>0</MobMinLevel>
+    <MobMaxLevel>99</MobMaxLevel>
+    <SpotRoamDistance>40</SpotRoamDistance>
+    <Order>False</Order>
+    <Factions>
+    </Factions>
+    <Ignores>
+    </Ignores>
+    <Spot>4227.931 -7226.329 18.749</Spot>
+  </SubProfile>
+</LazyProfile>

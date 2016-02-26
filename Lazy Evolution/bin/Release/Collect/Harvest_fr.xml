@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<HarvestList>
+<!-- ... -->
+  <Harvest><Name>Terre non labourée</Name><Action>1</Action></Harvest>
+  <Harvest><Name>Herbe envahissante</Name><Action>2</Action></Harvest>
+  <Harvest><Name>Herbe tenace</Name><Action>2</Action></Harvest>
+  <Harvest><Name>Terre labourée</Name><Action>3</Action></Harvest>
+  <Harvest><Name>Sol occupé</Name><Action>8</Action></Harvest>
+<!-- Green Cabbage -->
+  <Harvest><Name>Chou vert infesté</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Chou vert desséché</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Chou vert Do-P desséché</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Chou vert rabougri</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Chou vert enchevêtré</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Chou vert frétillant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Chou vert appétissant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Chou vert sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Chou vert plein</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Chou vert mûr</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Choux vert Do-P mûr</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Chou vert charnu</Name><Action>10</Action></Harvest>
+<!-- Juicycrunch Carrot -->
+  <Harvest><Name>Carotte corquejuteuse infestée</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Carotte croquejuteuse desséchée</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Carotte croquejuteuse rabougrie</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Carotte croquejuteuse enchevêtrée</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Carotte croquejuteuse frétillante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Carotte croquejuteuse appétissante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Carotte croquejuteuse sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Carotte croquejuteuse pleine</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Carotte croquejuteuse mûre</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Carotte croquejuteuse charnue</Name><Action>10</Action></Harvest>
+<!-- Scallions -->
+  <Harvest><Name>Echalotes infestées</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Echalotes desséchées</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Echalotes rabougries</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Echalotes enchevêtrées</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Echalotes frétillantes</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Echalotes appétissantes</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Echalotes sauvages</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Echalotes pleines</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Echalotes mûres</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Echalotes charnues</Name><Action>10</Action></Harvest>
+<!-- Mogu Pumpkin -->
+  <Harvest><Name>Citrouille mogu infestée</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Citrouille mogu desséchée</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Citrouille mogu rabougrie</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Citrouille mogu enchevêtrée</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Citrouille mogu frétillante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Citrouille mogu appétissante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Citrouille mogu sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Citrouille mogu pleine</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Citrouille mogu mûre</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Citrouille mogu charnue</Name><Action>10</Action></Harvest>
+<!-- Red Blossom Leek -->
+  <Harvest><Name>Poireau à fleur rouge infesté</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Poireau à fleur rouge desséché</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Poireau à fleur rouge rabougri</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Poireau à fleur rouge enchevêtré</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Poireau à fleur rouge frétillant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Poireau à fleur rouge appétissant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Poireau à fleur rouge sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Poireau au fleur rouge plein</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Poireau à fleur rouge mûr</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Poireau à fleur rouge charnu</Name><Action>10</Action></Harvest>
+<!-- Pink Turnip -->
+  <Harvest><Name>Navet rose infesté	</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Navet rose desséché</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Navet rose rabougri</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Navet rose enchevêtré</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Navet rose frétillant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Navet rose appétissant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Navet rose sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Navet rose plein</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Navet rose mûr</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Navet rose charnu</Name><Action>10</Action></Harvest>
+<!-- White Turnip -->
+  <Harvest><Name>Navet blanc infesté</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Navet blanc desséché</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Navet blanc rabougri</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Navet blanc enchevêtré</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Navet blanc frétillant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Navet blanc appétissant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Navet blanc sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Navet blanc plein</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Navet blanc mûr</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Navet blanc charnu</Name><Action>10</Action></Harvest>
+<!-- Jade Squash -->
+  <Harvest><Name>Courges de jade infestées</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Courge de jade desséchée</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Courge de jade rabougrie</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Courge de jade enchevêtrée</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Courge de jade frétillante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Courges de jade appétissantes</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Courge de jade sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Courge de jade pleine</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Courge de jade mûre</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Courge de jade charnue</Name><Action>10</Action></Harvest>
+<!-- Witchberries -->
+  <Harvest><Name>Sorcielles infestées</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Sorcielles desséchées</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Sorcielles rabougries</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Sorcielles enchevêtrées</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Sorcielles frétillantes</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Sorcielles appétissantes</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Sorcielles sauvages</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Sorcielles pleines</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Sorcielles mûres</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Sorcielles charnues</Name><Action>10</Action></Harvest>
+<!-- Striped Melon -->
+  <Harvest><Name>Melon à rayures infesté</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Melon à rayures desséché</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Melon à rayures rabougri</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Melon à rayures enchevêtré</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Melon à rayures frétillant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Melon à rayures appétissant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Melon à rayures sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Melon à rayures plein</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Melon à rayures mûr</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Melon à rayures charnu</Name><Action>10</Action></Harvest>
+<!-- Enigma Seed -->
+  <Harvest><Name>Graine énigmatique infestée</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Graine énigmatique desséchée</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Graine énigmatique rabougrie</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Graine énigmatique enchevêtrée</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Graine énigmatique frétillante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Graine énigmatique appétissante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Graine énigmatique sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Herbe à soie</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Feuille de thé vert</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Pavot de pluie</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Berluette</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Lys des neiges</Name><Action>10</Action></Harvest>
+  <Harvest><Name>Lotus doré</Name><Action>10</Action></Harvest>
+<!-- Magebulb -->
+  <Harvest><Name>Bulbemage infesté</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Bulbemage desséché</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Bulbemage rabougri</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Bulbemage enchevêtré</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Bulbemage frétillant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Bulbemage appétissant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Bulbemage sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Bulbemage</Name><Action>10</Action></Harvest>
+<!-- Raptorleaf -->
+  <Harvest><Name>Feuillociraptor infesté</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Feuillociraptor desséché</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Feuillociraptor rabougri</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Feuillociraptor enchevêtré</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Feuillociraptor frétillant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Feuillociraptor appétissant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Feuillociraptor sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Feuillociraptor</Name><Action>10</Action></Harvest>
+<!-- Snakeroot -->
+  <Harvest><Name>Serpencine infestée</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Serpencine desséchée</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Serpencine rabougrie</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Serpencine enchevêtrée</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Serpencine frétillante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Serpencine appétissante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Serpencine sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Serpencine</Name><Action>10</Action></Harvest>
+<!-- Windshear Cactus -->
+  <Harvest><Name>Cactus des Cisailles infesté</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Cactus des Cisailles desséché</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Cactus des Cisailles rabougri</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Cactus des Cisailles enchevêtré</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Cactus des Cisailles frétillant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Cactus des Cisailles appétissant</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Cactus des Cisailles sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Cactus des Cisailles</Name><Action>10</Action></Harvest>
+<!-- Songbell -->
+  <Harvest><Name>Carillonnette infestée</Name><Action>4</Action></Harvest>
+  <Harvest><Name>Carillonnette desséchée</Name><Action>5</Action></Harvest>
+  <Harvest><Name>Carillonnette rabougrie</Name><Action>6</Action></Harvest>
+  <Harvest><Name>Carillonnette enchevêtrée</Name><Action>7</Action></Harvest>
+  <Harvest><Name>Carillonnette frétillante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Carillonnette appétissante</Name><Action>8</Action></Harvest>
+  <Harvest><Name>Carillonnette sauvage</Name><Action>9</Action></Harvest>
+  <Harvest><Name>Carillonnette</Name><Action>10</Action></Harvest>
+<!-- Autumn Blossom Tree -->
+  <Harvest><Name>Arbre à floraison automnale</Name><Action>10</Action></Harvest>
+<!-- Winter Blossom Tree -->
+  <Harvest><Name>Arbre à floraison hivernale</Name><Action>10</Action></Harvest>
+<!-- Spring Blossom Tree -->
+  <Harvest><Name>Arbre à floraison printanière</Name><Action>10</Action></Harvest>
+</HarvestList>

@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\Release\LazyLib\bin\x86\Debug\LazyLib.dll.config
+C:\Users\Public\Documents\Release\LazyLib\bin\x86\Debug\LazyLib.dll
+C:\Users\Public\Documents\Release\LazyLib\bin\x86\Debug\LazyLib.pdb
+C:\Users\Public\Documents\Release\LazyLib\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Public\Documents\Release\LazyLib\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Debug\LazyLib.LazyRadar.RadarForm.resources
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Debug\LazyLib.Resource.resources
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Debug\LazyLib.Dialogs.UnhandledExceptionDlg.UnhandledExDlgForm.resources
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Debug\LazyLib.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Debug\LazyLib.dll
+C:\Users\Public\Documents\Release\LazyLib\obj\x86\Debug\LazyLib.pdb

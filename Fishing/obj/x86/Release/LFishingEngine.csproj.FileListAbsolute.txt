@@ -1,0 +1,50 @@
+C:\Users\Warrior\lazyevo\Fishing\bin\x86\Release\LFishingEngine.dll
+C:\Users\Warrior\lazyevo\Fishing\bin\x86\Release\LFishingEngine.pdb
+C:\Users\Warrior\lazyevo\Fishing\bin\x86\Release\DevComponents.DotNetBar2.dll
+C:\Users\Warrior\lazyevo\Fishing\bin\x86\Release\LazyLib.dll
+C:\Users\Warrior\lazyevo\Fishing\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Warrior\lazyevo\Fishing\obj\x86\Release\LFishingEngine.csprojResolveAssemblyReference.cache
+C:\Users\Warrior\lazyevo\Fishing\obj\x86\Release\LFishingEngine.Settings.resources
+C:\Users\Warrior\lazyevo\Fishing\obj\x86\Release\LFishingEngine.csproj.GenerateResource.Cache
+C:\Users\Warrior\lazyevo\Fishing\obj\x86\Release\LFishingEngine.dll
+C:\Users\Warrior\lazyevo\Fishing\obj\x86\Release\LFishingEngine.pdb
+C:\Users\Warrior\Documents\Release\Fishing\bin\x86\Release\LFishingEngine.dll
+C:\Users\Warrior\Documents\Release\Fishing\bin\x86\Release\LFishingEngine.pdb
+C:\Users\Warrior\Documents\Release\Fishing\bin\x86\Release\DevComponents.DotNetBar2.dll
+C:\Users\Warrior\Documents\Release\Fishing\bin\x86\Release\LazyLib.dll
+C:\Users\Warrior\Documents\Release\Fishing\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Warrior\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.csprojResolveAssemblyReference.cache
+C:\Users\Warrior\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.Settings.resources
+C:\Users\Warrior\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.csproj.GenerateResource.Cache
+C:\Users\Warrior\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.dll
+C:\Users\Warrior\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.pdb
+C:\Users\Charles\Documents\Release\Fishing\bin\x86\Release\LFishingEngine.dll
+C:\Users\Charles\Documents\Release\Fishing\bin\x86\Release\LFishingEngine.pdb
+C:\Users\Charles\Documents\Release\Fishing\bin\x86\Release\DevComponents.DotNetBar2.dll
+C:\Users\Charles\Documents\Release\Fishing\bin\x86\Release\LazyLib.dll
+C:\Users\Charles\Documents\Release\Fishing\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Charles\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.Settings.resources
+C:\Users\Charles\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.csproj.GenerateResource.Cache
+C:\Users\Charles\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.dll
+C:\Users\Charles\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.pdb
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Release\LFishingEngine.dll
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Release\LFishingEngine.pdb
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Release\DevComponents.DotNetBar2.dll
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Release\LazyLib.dll
+C:\Users\Public\Documents\Release\Fishing\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Public\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.Settings.resources
+C:\Users\Public\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.dll
+C:\Users\Public\Documents\Release\Fishing\obj\x86\Release\LFishingEngine.pdb
+C:\Users\Public\Documents\Release - Copy\Fishing\bin\x86\Release\LFishingEngine.dll
+C:\Users\Public\Documents\Release - Copy\Fishing\bin\x86\Release\LFishingEngine.pdb
+C:\Users\Public\Documents\Release - Copy\Fishing\bin\x86\Release\DevComponents.DotNetBar2.dll
+C:\Users\Public\Documents\Release - Copy\Fishing\bin\x86\Release\LazyLib.dll
+C:\Users\Public\Documents\Release - Copy\Fishing\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Public\Documents\Release - Copy\Fishing\obj\x86\Release\LFishingEngine.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Release - Copy\Fishing\obj\x86\Release\LFishingEngine.Settings.resources
+C:\Users\Public\Documents\Release - Copy\Fishing\obj\x86\Release\LFishingEngine.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Release - Copy\Fishing\obj\x86\Release\LFishingEngine.dll
+C:\Users\Public\Documents\Release - Copy\Fishing\obj\x86\Release\LFishingEngine.pdb
