@@ -267,3 +267,53 @@ C:\Users\Public\Documents\Release - Copy\Lazy Evolution\bin\Release\DevComponent
 C:\Users\Public\Documents\Release - Copy\Lazy Evolution\bin\Release\DevComponents.Instrumentation.dll
 C:\Users\Public\Documents\Release - Copy\Lazy Evolution\bin\Release\LazyLib.dll
 C:\Users\Public\Documents\Release - Copy\Lazy Evolution\bin\Release\System.Data.SQLite.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Lazy Evolution.exe.config
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\Lazy Evolution.exe
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\Lazy Evolution.pdb
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\falert.wav
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Langs.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\palert.wav
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\School.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Collect\Herb_de.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Collect\Herb_en.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Collect\Herb_es.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Collect\Herb_fr.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Collect\Herb_ru.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Collect\Mine_de.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Collect\Mine_en.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Collect\Mine_es.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Collect\Mine_fr.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Collect\Mine_ru.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Lazy Evolution.exe
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\Lazy Evolution.pdb
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\CSScriptLibrary.v3.5.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\curmoho.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\DevComponents.DotNetBar2.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\DevComponents.Instrumentation.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\LazyLib.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Release\System.Data.SQLite.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\Lazy Evolution.csprojResolveAssemblyReference.cache
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Forms.Debug.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.LFlyingEngine.FlyingProfileForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.LFlyingEngine.Settings.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.LGrindEngine.Helpers.ConverterForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.LGrindEngine.NpcClasses.TrainerDialog.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.LGrindEngine.PathControl.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.LGrindEngine.Settings.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Forms.Wizard.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Forms.Main.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Forms.Setup.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Plugins.ExtraLazy.frmFrameDumper.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Plugins.LazyData.frmProfessions.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Plugins.RotationPlugin.RotatorForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Plugins.RotationPlugin.RotationForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Plugins.RotationPlugin.RotationManagerForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Plugins.RotationPlugin.RotatorStatus.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Properties.Resources.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.Forms.Selector.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.PVEBehavior.BehaviorForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.PVEBehavior.Builders.DeathknightBuilder.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.PVEBehavior.Builders.PaladinBuilder.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.PVEBehavior.RuleEditor.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\LazyEvo.PVEBehavior.ScriptEditor.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Release\Lazy Evolution.csproj.GenerateResource.Cache

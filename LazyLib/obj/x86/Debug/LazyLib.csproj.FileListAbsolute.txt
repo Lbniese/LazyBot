@@ -9,3 +9,14 @@ C:\Users\Public\Documents\Release\LazyLib\obj\x86\Debug\LazyLib.Dialogs.Unhandle
 C:\Users\Public\Documents\Release\LazyLib\obj\x86\Debug\LazyLib.csproj.GenerateResource.Cache
 C:\Users\Public\Documents\Release\LazyLib\obj\x86\Debug\LazyLib.dll
 C:\Users\Public\Documents\Release\LazyLib\obj\x86\Debug\LazyLib.pdb
+E:\Projects\LazyBot\trunk\LazyLib\bin\x86\Debug\LazyLib.dll.config
+E:\Projects\LazyBot\trunk\LazyLib\bin\x86\Debug\LazyLib.dll
+E:\Projects\LazyBot\trunk\LazyLib\bin\x86\Debug\LazyLib.pdb
+E:\Projects\LazyBot\trunk\LazyLib\bin\x86\Debug\DevComponents.DotNetBar2.dll
+E:\Projects\LazyBot\trunk\LazyLib\bin\x86\Debug\System.Data.SQLite.dll
+E:\Projects\LazyBot\trunk\LazyLib\obj\x86\Debug\LazyLib.LazyRadar.RadarForm.resources
+E:\Projects\LazyBot\trunk\LazyLib\obj\x86\Debug\LazyLib.Resource.resources
+E:\Projects\LazyBot\trunk\LazyLib\obj\x86\Debug\LazyLib.Dialogs.UnhandledExceptionDlg.UnhandledExDlgForm.resources
+E:\Projects\LazyBot\trunk\LazyLib\obj\x86\Debug\LazyLib.csproj.GenerateResource.Cache
+E:\Projects\LazyBot\trunk\LazyLib\obj\x86\Debug\LazyLib.dll
+E:\Projects\LazyBot\trunk\LazyLib\obj\x86\Debug\LazyLib.pdb

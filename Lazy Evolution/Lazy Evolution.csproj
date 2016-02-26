@@ -524,12 +524,6 @@
     <None Include="Resources\Target_last_target1.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LazyLib\LazyLib.csproj">
-      <Project>{4937834C-4B5A-466A-BCF2-9A50AD8061F3}</Project>
-      <Name>LazyLib</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <WebReferences Include="Web References\" />
   </ItemGroup>
   <ItemGroup>
@@ -549,7 +543,12 @@
       <Install>true</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\LazyLib\LazyLib.csproj">
+      <Project>{4937834c-4b5a-466a-bcf2-9a50ad8061f3}</Project>
+      <Name>LazyLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>

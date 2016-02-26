@@ -52,3 +52,54 @@ C:\Users\Public\Documents\Release\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavi
 C:\Users\Public\Documents\Release\Lazy Evolution\obj\x86\Debug\Lazy Evolution.csproj.GenerateResource.Cache
 C:\Users\Public\Documents\Release\Lazy Evolution\obj\x86\Debug\Lazy Evolution.exe
 C:\Users\Public\Documents\Release\Lazy Evolution\obj\x86\Debug\Lazy Evolution.pdb
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Lazy Evolution.exe.config
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\Lazy Evolution.exe
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\Lazy Evolution.pdb
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\falert.wav
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Langs.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\palert.wav
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\School.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Collect\Herb_de.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Collect\Herb_en.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Collect\Herb_es.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Collect\Herb_fr.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Collect\Herb_ru.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Collect\Mine_de.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Collect\Mine_en.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Collect\Mine_es.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Collect\Mine_fr.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Collect\Mine_ru.xml
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Lazy Evolution.exe
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\Lazy Evolution.pdb
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\CSScriptLibrary.v3.5.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\curmoho.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\DevComponents.Instrumentation.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\LazyLib.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\System.Data.SQLite.dll
+E:\Projects\LazyBot\trunk\Lazy Evolution\bin\Debug\LazyLib.pdb
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\Lazy Evolution.csprojResolveAssemblyReference.cache
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Forms.Debug.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.LFlyingEngine.FlyingProfileForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.LFlyingEngine.Settings.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.LGrindEngine.Helpers.ConverterForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.LGrindEngine.NpcClasses.TrainerDialog.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.LGrindEngine.PathControl.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.LGrindEngine.Settings.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Forms.Wizard.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Forms.Main.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Forms.Setup.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.ExtraLazy.frmFrameDumper.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.LazyData.frmProfessions.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.RotationPlugin.RotatorForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.RotationPlugin.RotationForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.RotationPlugin.RotationManagerForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.RotationPlugin.RotatorStatus.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Properties.Resources.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.Forms.Selector.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavior.BehaviorForm.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavior.Builders.DeathknightBuilder.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavior.Builders.PaladinBuilder.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavior.RuleEditor.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavior.ScriptEditor.resources
+E:\Projects\LazyBot\trunk\Lazy Evolution\obj\x86\Debug\Lazy Evolution.csproj.GenerateResource.Cache

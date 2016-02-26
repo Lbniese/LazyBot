@@ -48,3 +48,13 @@ C:\Users\Public\Documents\Release - Copy\Fishing\obj\x86\Release\LFishingEngine.
 C:\Users\Public\Documents\Release - Copy\Fishing\obj\x86\Release\LFishingEngine.csproj.GenerateResource.Cache
 C:\Users\Public\Documents\Release - Copy\Fishing\obj\x86\Release\LFishingEngine.dll
 C:\Users\Public\Documents\Release - Copy\Fishing\obj\x86\Release\LFishingEngine.pdb
+E:\Projects\LazyBot\trunk\Fishing\bin\x86\Release\LFishingEngine.dll
+E:\Projects\LazyBot\trunk\Fishing\bin\x86\Release\LFishingEngine.pdb
+E:\Projects\LazyBot\trunk\Fishing\bin\x86\Release\DevComponents.DotNetBar2.dll
+E:\Projects\LazyBot\trunk\Fishing\bin\x86\Release\LazyLib.dll
+E:\Projects\LazyBot\trunk\Fishing\bin\x86\Release\System.Data.SQLite.dll
+E:\Projects\LazyBot\trunk\Fishing\obj\x86\Release\LFishingEngine.csprojResolveAssemblyReference.cache
+E:\Projects\LazyBot\trunk\Fishing\obj\x86\Release\LFishingEngine.Settings.resources
+E:\Projects\LazyBot\trunk\Fishing\obj\x86\Release\LFishingEngine.csproj.GenerateResource.Cache
+E:\Projects\LazyBot\trunk\Fishing\obj\x86\Release\LFishingEngine.dll
+E:\Projects\LazyBot\trunk\Fishing\obj\x86\Release\LFishingEngine.pdb
